@@ -1,0 +1,35 @@
+{
+  "name": "Singularity Hero #6197",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmREe4iUmU76dW52uHDUuBKmntPr5pVSsx9achjhHzN1nA",
+  "attributes": [
+    {
+      "trait_type": "Glases",
+      "value": "Stars"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Bomber"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Lilac"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Leopard mask"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Сowboy"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Gothic"
+    }
+  ]
+}

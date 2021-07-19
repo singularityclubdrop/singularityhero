@@ -1,0 +1,35 @@
+{
+  "name": "Singularity Hero #5769",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmetTq81vYtUGbKfu9JdV64rvVVE9BS9uRdWxNMECLGP3v",
+  "attributes": [
+    {
+      "trait_type": "Eye",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Glases",
+      "value": "Smart"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Poker t-shirt"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Human white"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Sadness"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Helicopter hat"
+    }
+  ]
+}

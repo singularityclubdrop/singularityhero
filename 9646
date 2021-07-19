@@ -1,0 +1,35 @@
+{
+  "name": "Singularity Hero #9646",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmanBinGcnhnmNdSJLxaafzEaQpPcDimmuSLFTqD34m7N9",
+  "attributes": [
+    {
+      "trait_type": "Glases",
+      "value": "Stars"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Poker t-shirt"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Heavenly"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "Face",
+      "value": "SubZero mask"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pot hairstyle"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Gothic"
+    }
+  ]
+}

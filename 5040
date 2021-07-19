@@ -1,0 +1,35 @@
+{
+  "name": "Singularity Hero #5040",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmajcCrqxWN24qKWBx2TZzDg6D4LCnXJgzZRQ5N6dNmPng",
+  "attributes": [
+    {
+      "trait_type": "Eye",
+      "value": "Electric"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Army"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Human black"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Disgruntled"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mini Afro black"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Beads"
+    }
+  ]
+}

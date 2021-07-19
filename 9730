@@ -1,0 +1,35 @@
+{
+  "name": "Singularity Hero #9730",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmatW4kj6h9hD8r7MYbCPi1dFDcsbvcrqhcpbhQzDMswBD",
+  "attributes": [
+    {
+      "trait_type": "Eye",
+      "value": "Snake"
+    },
+    {
+      "trait_type": "Glases",
+      "value": "Work"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Life jacket"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Bain mask"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Ski cap"
+    }
+  ]
+}

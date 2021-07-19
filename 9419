@@ -1,0 +1,35 @@
+{
+  "name": "Singularity Hero #9419",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmezSGnAphohmZUzyq2AVDd6coJH3KhrkSfZzHzjbKhXBQ",
+  "attributes": [
+    {
+      "trait_type": "Eye",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Glases",
+      "value": "Oval"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Denim"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Zebra mask"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Rainbow hair"
+    }
+  ]
+}

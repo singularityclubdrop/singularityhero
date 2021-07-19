@@ -1,0 +1,35 @@
+{
+  "name": "Singularity Hero #9542",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmThsqyD7yEPXnnm8CCLjwXHEPMD7z6w1unmNAJCB53cex",
+  "attributes": [
+    {
+      "trait_type": "Glases",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Lilac"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Mystic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Ethereum T-shirt"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Demon's tongue"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Trident"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mini Afro leopard"
+    }
+  ]
+}

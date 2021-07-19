@@ -1,0 +1,31 @@
+{
+  "name": "Singularity Hero #6055",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmSkQsFQEJtBHhqZLUwsYZuRZcH5ryMFKnaK7QRXK8RSFZ",
+  "attributes": [
+    {
+      "trait_type": "Eye",
+      "value": "Demon"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Scars"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Dark violet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Demon"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Demon's tongue"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Demon horns"
+    }
+  ]
+}

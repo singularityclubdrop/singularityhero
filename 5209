@@ -1,0 +1,35 @@
+{
+  "name": "Singularity Hero #5209",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmedxmLeBTEfNAQBfx61vCdXyfNEBUcS8DfAmGQpXoBtxs",
+  "attributes": [
+    {
+      "trait_type": "Eye",
+      "value": "Hypnotic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Leather jacket"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Cyber mask"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Keyboard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mini Afro black"
+    }
+  ]
+}

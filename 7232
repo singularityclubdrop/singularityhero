@@ -1,0 +1,35 @@
+{
+  "name": "Singularity Hero #7232",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmccGJyZtPSvDrsUESMohuAspksyxvfY6LcEHWxRKCMVsV",
+  "attributes": [
+    {
+      "trait_type": "Glases",
+      "value": "Rectangular"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Poker t-shirt"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Human white"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Bain mask"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Purple hat"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Stars"
+    }
+  ]
+}

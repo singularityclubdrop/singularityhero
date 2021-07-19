@@ -1,0 +1,35 @@
+{
+  "name": "Singularity Hero #6480",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmahaBMPaN1DJVzVseBWik9gBYH5b6oNVCM8mu6jabpSAA",
+  "attributes": [
+    {
+      "trait_type": "Eye",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Glases",
+      "value": "Stars"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Ninja"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Turquoise"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Zebra mask"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sleek hair"
+    }
+  ]
+}

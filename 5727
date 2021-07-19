@@ -1,0 +1,35 @@
+{
+  "name": "Singularity Hero #5727",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmehJYpzgiAKNW3gC72eFD7nPPF6v8qbzNH6oqDdj4FCuC",
+  "attributes": [
+    {
+      "trait_type": "Eye",
+      "value": "Snake"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Denim"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Backpack Blue"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Disgruntled"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Short blonde"
+    }
+  ]
+}

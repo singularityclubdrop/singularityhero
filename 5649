@@ -1,0 +1,35 @@
+{
+  "name": "Singularity Hero #5649",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmULEFoHphGHEM4uSrm4rFWcwQmKNu6wGVGGH2DJTBxGU5",
+  "attributes": [
+    {
+      "trait_type": "Glases",
+      "value": "Rectangular"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Mystic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Ethereum T-shirt"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Cosmetic mask"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Trident"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Zombie"
+    }
+  ]
+}
