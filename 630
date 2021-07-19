@@ -1,0 +1,35 @@
+{
+  "name": "Singularity Hero #630",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmewwrD3eQVjvukSJSdbf61ZUKzphKChDriJHc8NceDNeG",
+  "attributes": [
+    {
+      "trait_type": "Eye",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Sweatshirt"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Disgruntled"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Hat"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Stars"
+    }
+  ]
+}

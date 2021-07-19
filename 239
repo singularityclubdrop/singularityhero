@@ -1,0 +1,35 @@
+{
+  "name": "Singularity Hero #239",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmafvuPrvZBhxG91ZTWeSm5DinrPY46ccRaV42PXb6SwRa",
+  "attributes": [
+    {
+      "trait_type": "Glases",
+      "value": "Oval"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Psycho"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Human black"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Anger"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Keyboard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cylinder hat"
+    }
+  ]
+}

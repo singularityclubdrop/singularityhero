@@ -1,0 +1,39 @@
+{
+  "name": "Singularity Hero #1585",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmasYzyrK59jPVG6vQUV2qAYt5cdT7qaJYSxFmnjSrZA3e",
+  "attributes": [
+    {
+      "trait_type": "Glases",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Bomber"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Сhain"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Heavenly"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Face",
+      "value": "SubZero mask"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Сlown hair"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Beads"
+    }
+  ]
+}

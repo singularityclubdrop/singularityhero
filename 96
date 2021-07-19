@@ -1,0 +1,35 @@
+{
+  "name": "Singularity Hero #96",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmenUfJ7NZXipVAiY2dYnUsBKGqfJTiu8vTzJFUUPEnKvB",
+  "attributes": [
+    {
+      "trait_type": "Eye",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "AC/DC"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Human white"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Zebra mask"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Long hair"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Skull"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Singularity Hero #1235",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmedZD6ARatPCftZ9s2eQXEPwVXHUgmsfAV2DzSgLiRwrL",
+  "attributes": [
+    {
+      "trait_type": "Eye",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Human black"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Cosmetic mask"
+    },
+    {
+      "trait_type": "Head",
+      "value": "The cap"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Lightning"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Combat suit"
+    }
+  ]
+}

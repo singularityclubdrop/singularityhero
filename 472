@@ -1,0 +1,35 @@
+{
+  "name": "Singularity Hero #472",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmReYXS52XT91oCSsLuML4Kr6kHBH8Jy91Anm89NpZ6WjA",
+  "attributes": [
+    {
+      "trait_type": "Glases",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Blown vest"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Heavenly"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Dinamic mask"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Swords"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Superman hair"
+    }
+  ]
+}

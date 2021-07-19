@@ -1,0 +1,35 @@
+{
+  "name": "Singularity Hero #118",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmarmZteK7HY2XcqKAZVdfkpEyuzR5UnfpBcMmRymZA5Cu",
+  "attributes": [
+    {
+      "trait_type": "Glases",
+      "value": "Rectangular"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Poker t-shirt"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Heavenly"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Leopard mask"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Towel"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Stars"
+    }
+  ]
+}
