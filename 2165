@@ -1,0 +1,43 @@
+{
+  "name": "Singularity Hero #2165",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/Qmf6FE6J2LhaJCPnbj5EoKyxEcK2GruZokHyenFQgWZKRR",
+  "attributes": [
+    {
+      "trait_type": "Eye",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Glases",
+      "value": "Scar"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Pink t-shirt"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Disgruntled"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Torch"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Elf Hair"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Pierced ears"
+    }
+  ]
+}

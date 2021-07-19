@@ -1,0 +1,39 @@
+{
+  "name": "Singularity Hero #3505",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/Qmdr4Gf3GdSaWVWQNumn78tjSyg45nLqVc12BX8Wzy7PgL",
+  "attributes": [
+    {
+      "trait_type": "Glases",
+      "value": "Scar"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Human white"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Life jacket"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Gas mask"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Torch"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Towel"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Zombie"
+    }
+  ]
+}

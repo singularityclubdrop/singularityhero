@@ -1,0 +1,39 @@
+{
+  "name": "Singularity Hero #2088",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmQPev56f2JiVC99xwsSt1MbJHaM6rB8e7c9vkeHYRVswX",
+  "attributes": [
+    {
+      "trait_type": "Eye",
+      "value": "Electric"
+    },
+    {
+      "trait_type": "Glases",
+      "value": "Oval"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Blown vest"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Dark violet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Demon smile"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sketchy styling"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Stars"
+    }
+  ]
+}

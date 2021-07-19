@@ -1,0 +1,43 @@
+{
+  "name": "Singularity Hero #2291",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/Qmf8hAYomWL4GhBqsFfJaQNxmm3AQG7q6u35j2ds9mVCoa",
+  "attributes": [
+    {
+      "trait_type": "Eye",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Glases",
+      "value": "Morpheus"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Human white"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Base mask"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Keyboard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Hedgehog hair"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Combat suit"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Singularity Hero #2613",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmerDqnpuMePcGiFWAdE85Z2N4PdjnT15A2323kmnXYhUE",
+  "attributes": [
+    {
+      "trait_type": "Glases",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Army"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Сhain"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Sadness"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dreads"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Holes"
+    }
+  ]
+}

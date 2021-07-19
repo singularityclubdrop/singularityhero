@@ -1,0 +1,39 @@
+{
+  "name": "Singularity Hero #3938",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmVPDqH7J1cCG2F4uL3YAiJaNMjYD9rVrogxxGM7nqiWyS",
+  "attributes": [
+    {
+      "trait_type": "Eye",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Glases",
+      "value": "Ray Ban transparent"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Scars"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Dark violet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Demon's tongue"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Keyboard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sleek hair"
+    }
+  ]
+}

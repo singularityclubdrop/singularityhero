@@ -1,0 +1,43 @@
+{
+  "name": "Singularity Hero #3441",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmfL8sUUxYWpc8d35kEBTJ12BStdgJrwTQGFVTH1BT3Bje",
+  "attributes": [
+    {
+      "trait_type": "Eye",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Glases",
+      "value": "Pixel"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Psycho"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Heavenly"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Mystic"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Disgruntled"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Keyboard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Сap"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Zombie"
+    }
+  ]
+}

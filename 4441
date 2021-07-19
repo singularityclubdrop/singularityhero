@@ -1,0 +1,31 @@
+{
+  "name": "Singularity Hero #4441",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmcfE5VqGAieAsvC3DgqwgsAbpAqqicVHfo8V2JN8dxXkT",
+  "attributes": [
+    {
+      "trait_type": "Clothes",
+      "value": "Leather jacket"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Сhain"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Lilac"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Human black"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Base mask"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Сlassic haircut"
+    }
+  ]
+}

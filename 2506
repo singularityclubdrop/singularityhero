@@ -1,0 +1,35 @@
+{
+  "name": "Singularity Hero #2506",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmTEBpsV5rwaoa5cHNNmoGEbH9WXb5eQ4NYXtUM2t7sQ1K",
+  "attributes": [
+    {
+      "trait_type": "Clothes",
+      "value": "Hawaiian"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Backpack Red"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Lilac"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Zebra mask"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Big brain"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Lightning"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Aqua"
+    }
+  ]
+}

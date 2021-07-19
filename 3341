@@ -1,0 +1,43 @@
+{
+  "name": "Singularity Hero #3341",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmTKr56hWncuo1MFeTy96mvcT4ewNdCP5KXn6WMQzwDsLu",
+  "attributes": [
+    {
+      "trait_type": "Eye",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Glases",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Denim vest"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Trident"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Сowboy"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Lightning"
+    }
+  ]
+}

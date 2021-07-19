@@ -1,0 +1,43 @@
+{
+  "name": "Singularity Hero #3323",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmPGh6CbK94PVpxsvKropV84QR1FxrRqxJ4cKP6fkVtYmq",
+  "attributes": [
+    {
+      "trait_type": "Eye",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Glases",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Heavenly"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Pink t-shirt"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Leopard mask"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Keyboard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Сlassic haircut"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Stars"
+    }
+  ]
+}

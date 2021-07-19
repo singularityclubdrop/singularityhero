@@ -1,0 +1,43 @@
+{
+  "name": "Singularity Hero #3923",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmYbnGTC7tYYbzwWwWuyXvq3rVKmWVUwjU8wJufh7yPrSD",
+  "attributes": [
+    {
+      "trait_type": "Eye",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Glases",
+      "value": "Work"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Fire"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Ethereum T-shirt"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Anger"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Keyboard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mini Afro black"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Gothic"
+    }
+  ]
+}

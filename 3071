@@ -1,0 +1,43 @@
+{
+  "name": "Singularity Hero #3071",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmbhhF8XhzciUWQvT5qCaRjFGgaU7oMZq7SeY44y7ebEFx",
+  "attributes": [
+    {
+      "trait_type": "Eye",
+      "value": "Fire"
+    },
+    {
+      "trait_type": "Glases",
+      "value": "Pixel"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Hawaiian"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Swords"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Long hair"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Lightning"
+    }
+  ]
+}

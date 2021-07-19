@@ -1,0 +1,39 @@
+{
+  "name": "Singularity Hero #3953",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmWgfxY5dw9vQK5D9mYMvzeenqqrEgM4Qfp2s92cmh3P81",
+  "attributes": [
+    {
+      "trait_type": "Eye",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Glases",
+      "value": "Pixel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Dark blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Human white"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Joker"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Prodigy"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Holes"
+    }
+  ]
+}

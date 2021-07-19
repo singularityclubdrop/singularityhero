@@ -1,0 +1,43 @@
+{
+  "name": "Singularity Hero #3600",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmTnrVEapzDwt9Bu8josDKgFVSu2Zsbr7k1J8jqCQo9YYs",
+  "attributes": [
+    {
+      "trait_type": "Eye",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Glases",
+      "value": "Ray Ban transparent"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Lilac"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Human white"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Tuxedo"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Keyboard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cylinder hat"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Lightning"
+    }
+  ]
+}

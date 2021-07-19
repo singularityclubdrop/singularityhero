@@ -1,0 +1,43 @@
+{
+  "name": "Singularity Hero #4337",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmRX5WCCZvhjTrfHb96ivHaJTK7Q7GFawNSsHHKSuZ7Xuh",
+  "attributes": [
+    {
+      "trait_type": "Eye",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Glases",
+      "value": "Rectangular"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Dealer"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Turquoise"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Human black"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Dinamic mask"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Swords"
+    },
+    {
+      "trait_type": "Head",
+      "value": "The Crown"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Zombie"
+    }
+  ]
+}

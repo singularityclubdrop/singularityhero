@@ -1,0 +1,35 @@
+{
+  "name": "Singularity Hero #2136",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmbWzHM6Gzc5KQEs7AHPtnMgQ4tgJTBtusFA6QkFHfJnHg",
+  "attributes": [
+    {
+      "trait_type": "Eye",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Bomber"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Dark violet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Human black"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Trident"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mini Afro leopard"
+    }
+  ]
+}

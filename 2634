@@ -1,0 +1,35 @@
+{
+  "name": "Singularity Hero #2634",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmXbXrfdcDXwGg57zDHcNrw92tWvrVXQNPdq1QLg1D1t2h",
+  "attributes": [
+    {
+      "trait_type": "Eye",
+      "value": "Love"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Suspenders"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Lilac"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Demon"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Smoking"
+    },
+    {
+      "trait_type": "Head",
+      "value": "The Crown"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Zombie"
+    }
+  ]
+}

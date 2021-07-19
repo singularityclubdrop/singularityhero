@@ -1,0 +1,39 @@
+{
+  "name": "Singularity Hero #2316",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmRxmL5cHLqte7tQLNHNePTiQrCDEhyc128S3HDfqC6syx",
+  "attributes": [
+    {
+      "trait_type": "Eye",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Glases",
+      "value": "Stars"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Blown vest"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Backpack Blue"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Dark blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Cyber mask"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Long hair"
+    }
+  ]
+}

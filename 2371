@@ -1,0 +1,43 @@
+{
+  "name": "Singularity Hero #2371",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/Qmcp5K9U3RfutFhxBhtpAKDg1bHdDZoU1RW9X83gqN8biB",
+  "attributes": [
+    {
+      "trait_type": "Eye",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Glases",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Ninja"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Сhain"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Dark violet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Dinamic mask"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Magic hat"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Lightning"
+    }
+  ]
+}

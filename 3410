@@ -1,0 +1,39 @@
+{
+  "name": "Singularity Hero #3410",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmeHSfUGAXc5fjc9PNiMiWjNwCLjKmAs93sD9eKRETesAT",
+  "attributes": [
+    {
+      "trait_type": "Glases",
+      "value": "Rectangular"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Ninja"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Demon"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Anger"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Swords"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Ski cap"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Stars"
+    }
+  ]
+}

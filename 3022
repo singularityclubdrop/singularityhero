@@ -1,0 +1,43 @@
+{
+  "name": "Singularity Hero #3022",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmSwCTZrVvFm3xtnaDWsg4rEXE9tZdYhPJEz4hbPE44h9P",
+  "attributes": [
+    {
+      "trait_type": "Eye",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Glases",
+      "value": "Harry Potter"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Hawaiian"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Face",
+      "value": "SubZero mask"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Alien Eye"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Short bangs"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Pierced ears"
+    }
+  ]
+}

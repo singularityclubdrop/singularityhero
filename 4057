@@ -1,0 +1,35 @@
+{
+  "name": "Singularity Hero #4057",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/Qmds5CM6YuuL1Za3Jdxps3A3RTyFqACviMm4E8mLonRhGy",
+  "attributes": [
+    {
+      "trait_type": "Eye",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Glases",
+      "value": "Rectangular"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Dark violet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Ethereum T-shirt"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Disgruntled"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cylinder hat"
+    }
+  ]
+}

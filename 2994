@@ -1,0 +1,43 @@
+{
+  "name": "Singularity Hero #2994",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmcQAeyy8b2cR9gBac5hsqhRZniHjRZzo44LmdMKHF6pSU",
+  "attributes": [
+    {
+      "trait_type": "Eye",
+      "value": "Fire"
+    },
+    {
+      "trait_type": "Glases",
+      "value": "Oval"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Ninja"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Joystick"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Zebra mask"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Helicopter hat"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Zombie"
+    }
+  ]
+}

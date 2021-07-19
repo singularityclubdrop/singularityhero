@@ -1,0 +1,43 @@
+{
+  "name": "Singularity Hero #3514",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/Qmbq5UskjU1m3PSndToTgZAfrykzLAXTfgwHx5rKwE7Shh",
+  "attributes": [
+    {
+      "trait_type": "Eye",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Glases",
+      "value": "Harry Potter"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Human white"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Joystick"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Life jacket"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Smirk"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Magic hat"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Holes"
+    }
+  ]
+}

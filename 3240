@@ -1,0 +1,39 @@
+{
+  "name": "Singularity Hero #3240",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmXqQhe2ityBwF3Tkzt99uJpt1Yr4aUCgEkW5L6cosxvma",
+  "attributes": [
+    {
+      "trait_type": "Eye",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Glases",
+      "value": "Stars"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Sweatshirt"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Dark blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Human black"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Cyber mask"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Torch"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Lightning"
+    }
+  ]
+}

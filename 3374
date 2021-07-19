@@ -1,0 +1,27 @@
+{
+  "name": "Singularity Hero #3374",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmbWUbBtmbDDVg9ZprLwQznhrWYWYCnVVeHEPVoAcQGtss",
+  "attributes": [
+    {
+      "trait_type": "Eye",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Fire"
+    },
+    {
+      "trait_type": "Face",
+      "value": "SteamPunk mask"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mask hat"
+    }
+  ]
+}

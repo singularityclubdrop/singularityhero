@@ -1,0 +1,43 @@
+{
+  "name": "Singularity Hero #3415",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmSHK5HDmzuLZyxiamxxexqwJ9nwcPa4gat3VrUcRcbEvd",
+  "attributes": [
+    {
+      "trait_type": "Eye",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "Glases",
+      "value": "Rectangular"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Tuxedo"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Smirk"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Swords"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Reggae"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Lightning"
+    }
+  ]
+}

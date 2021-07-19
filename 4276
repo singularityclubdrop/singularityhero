@@ -1,0 +1,39 @@
+{
+  "name": "Singularity Hero #4276",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmePVmzo6ZrBobmt4DKeXV9TmEveJhttPYaDhvPPXwb1o6",
+  "attributes": [
+    {
+      "trait_type": "Eye",
+      "value": "Love"
+    },
+    {
+      "trait_type": "Glases",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Dark blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Human black"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Sadness"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Long Dreads"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Elf Ears"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Singularity Hero"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "name": "Singularity Hero #2334",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmTzQUUkP6LedcMfrm8BdHZFcC7uNux7U2qrF1zdAf7tVE",
+  "attributes": [
+    {
+      "trait_type": "Eye",
+      "value": "Snake"
+    },
+    {
+      "trait_type": "Glases",
+      "value": "Rectangular"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Backpack Blue"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Heavenly"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Human white"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Danger"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sleek hair"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Lightning"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Thor's Armor"
+    }
+  ]
+}

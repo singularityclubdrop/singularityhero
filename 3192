@@ -1,0 +1,35 @@
+{
+  "name": "Singularity Hero #3192",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmSYRRDUpD9v5WtnEGNGL2yMMUbLmShpENwPXMEu7WPxQg",
+  "attributes": [
+    {
+      "trait_type": "Glases",
+      "value": "Smart"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Psycho"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Human white"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Anger"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Ugly hair"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Zombie"
+    }
+  ]
+}

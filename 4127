@@ -1,0 +1,43 @@
+{
+  "name": "Singularity Hero #4127",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmRPWNMfbWzCbTvgANttjvNUykxshWVMNQ5827JqhhASvU",
+  "attributes": [
+    {
+      "trait_type": "Eye",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Glases",
+      "value": "Rectangular"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Sweatshirt"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Сhain"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Lilac"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Zebra mask"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Foil cap"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Lightning"
+    }
+  ]
+}

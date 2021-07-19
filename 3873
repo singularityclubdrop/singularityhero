@@ -1,0 +1,43 @@
+{
+  "name": "Singularity Hero #3873",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmS7C91XdRwjbEpww6jZFAWKLNZJvZVnEaGEAZUztcHXHw",
+  "attributes": [
+    {
+      "trait_type": "Eye",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Glases",
+      "value": "Harry Potter"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Sweatshirt"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Human black"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Shawl"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Swords"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Long Dreads"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Elf Ears"
+    }
+  ]
+}

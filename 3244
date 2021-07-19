@@ -1,0 +1,35 @@
+{
+  "name": "Singularity Hero #3244",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/Qma6XUy2HBHTtK3WCut7YyZDRwhkXFUxEsn6GXkp9KoeYr",
+  "attributes": [
+    {
+      "trait_type": "Eye",
+      "value": "Snake"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Sweatshirt"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Turquoise"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Human black"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Smirk"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Hat"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Pierced ears"
+    }
+  ]
+}

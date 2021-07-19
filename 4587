@@ -1,0 +1,27 @@
+{
+  "name": "Singularity Hero #4587",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmQQzG8AbDN2WLAPKa3YE3kWcxLisCJkLPZD21b4R8QBgN",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark violet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Mystic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Yellow shirt"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Bain mask"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bamboo hat"
+    }
+  ]
+}

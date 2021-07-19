@@ -1,0 +1,39 @@
+{
+  "name": "Singularity Hero #2870",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/Qmbif81PzK2n5AakMMagBxjg8NXFKCuQw39FKF7gxiT7vH",
+  "attributes": [
+    {
+      "trait_type": "Eye",
+      "value": "Fire"
+    },
+    {
+      "trait_type": "Glases",
+      "value": "Rectangular"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Poker t-shirt"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Сhain"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Heavenly"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Base mask"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Afro"
+    }
+  ]
+}

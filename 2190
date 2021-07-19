@@ -1,0 +1,35 @@
+{
+  "name": "Singularity Hero #2190",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmWbxVDjv1NGe6dxaVHVkgzWhBz8pgy2NCBgrDMk9twbLv",
+  "attributes": [
+    {
+      "trait_type": "Eye",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Glases",
+      "value": "Ray Ban transparent"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Lilac"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Tuxedo"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Leopard mask"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Helicopter hat"
+    }
+  ]
+}

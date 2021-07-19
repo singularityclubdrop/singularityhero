@@ -1,0 +1,35 @@
+{
+  "name": "Singularity Hero #4520",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmRmkYEkvCqSkz7vxHfhhTcW1H3cEJsXnfhUsYeQKG8xCb",
+  "attributes": [
+    {
+      "trait_type": "Eye",
+      "value": "Hypnotic"
+    },
+    {
+      "trait_type": "Glases",
+      "value": "Rock"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Suspenders"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Human white"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Demon smile"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Сap"
+    }
+  ]
+}

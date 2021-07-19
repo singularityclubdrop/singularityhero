@@ -1,0 +1,43 @@
+{
+  "name": "Singularity Hero #3276",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmenZUk5CNQ4ckmoXjqjLKrgxYthCphHBv1gxbXp9QqFwb",
+  "attributes": [
+    {
+      "trait_type": "Eye",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Glases",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Сhain"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Human white"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Yellow shirt"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Zebra mask"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Towel"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Zombie"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Singularity Hero #4721",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/Qme6EncNMh3WxnmztUJB5bJ1EHmHLJp9YLxMVguJem3SVN",
+  "attributes": [
+    {
+      "trait_type": "Eye",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Tuxedo"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Keyboard"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Skull"
+    }
+  ]
+}

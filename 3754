@@ -1,0 +1,39 @@
+{
+  "name": "Singularity Hero #3754",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmZoTTtfnFnA4fWJ3WTggovcfqZV7qDYYgJdp5cUTLZ9xA",
+  "attributes": [
+    {
+      "trait_type": "Glases",
+      "value": "Ray Ban violet"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Ninja"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Danger"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Keyboard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Long Dreads"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Holes"
+    }
+  ]
+}

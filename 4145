@@ -1,0 +1,43 @@
+{
+  "name": "Singularity Hero #4145",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmWqF9gap2d58Epo9T3uKoFGpm8yAnEHkDmLXY35qwvYnc",
+  "attributes": [
+    {
+      "trait_type": "Eye",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Glases",
+      "value": "Rectangular"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Lilac"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Dinamic mask"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Swords"
+    },
+    {
+      "trait_type": "Head",
+      "value": "The Crown"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Holes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Racer"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Singularity Hero #4833",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmNdz3ER3jK5x9vMJu1UnASd6MrvarrTWysG1KH7J1mCjB",
+  "attributes": [
+    {
+      "trait_type": "Glases",
+      "value": "Pixel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Dark violet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Joystick"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Life jacket"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Base mask"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Elf Hair"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Singularity Hero #3843",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmULRTEm6chdxBQMAoJB26RYnSbS6XQPBiEH9oAqrrLoCK",
+  "attributes": [
+    {
+      "trait_type": "Eye",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Glases",
+      "value": "Narrow"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Sweatshirt"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Turquoise"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Joker"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Elf Hair"
+    }
+  ]
+}

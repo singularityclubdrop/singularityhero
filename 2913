@@ -1,0 +1,39 @@
+{
+  "name": "Singularity Hero #2913",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmYhsbs8a6iZGfDgRcvid6db3kPhPYLCvWGjxvFaomDHaH",
+  "attributes": [
+    {
+      "trait_type": "Eye",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Glases",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Dirty shirt"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Human black"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Base mask"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Robot Hands"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Prodigy"
+    }
+  ]
+}

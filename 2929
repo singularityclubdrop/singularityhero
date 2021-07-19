@@ -1,0 +1,39 @@
+{
+  "name": "Singularity Hero #2929",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmSVDkLCoFsuSE5m6ydLmGCy7DDhsLKGo3RwAruNxweSoX",
+  "attributes": [
+    {
+      "trait_type": "Eye",
+      "value": "Stars"
+    },
+    {
+      "trait_type": "Glases",
+      "value": "Rock"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "Face",
+      "value": "SteamPunk mask"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pitter Parker hair"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Holes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Yellow blazer"
+    }
+  ]
+}

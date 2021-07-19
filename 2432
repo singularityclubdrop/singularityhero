@@ -1,0 +1,35 @@
+{
+  "name": "Singularity Hero #2432",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/Qmf4AmeuZ9nminQptWgcvQ2f4uPNu5ea4mmaeoqDoPfBcN",
+  "attributes": [
+    {
+      "trait_type": "Eye",
+      "value": "Snake"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Backpack Blue"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Smirk"
+    },
+    {
+      "trait_type": "Head",
+      "value": "The cap"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Aqua"
+    }
+  ]
+}

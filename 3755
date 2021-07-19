@@ -1,0 +1,43 @@
+{
+  "name": "Singularity Hero #3755",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmR9UVm1ArNP2hGzMwTuyiKma8Jnv9ph9xjTo2otqCgQHH",
+  "attributes": [
+    {
+      "trait_type": "Eye",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Glases",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Dealer"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Backpack Red"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Dark blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Human black"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Zebra mask"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Сlown hair"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Beads"
+    }
+  ]
+}

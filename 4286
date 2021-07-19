@@ -1,0 +1,39 @@
+{
+  "name": "Singularity Hero #4286",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmSPCAYqiDso1KHi7LnyrtztgTqZqFVcufD2kNvYDuaxGG",
+  "attributes": [
+    {
+      "trait_type": "Eye",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "Glases",
+      "value": "Goggles"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Turquoise"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Smoking"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Torch"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sketchy styling"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Elf Ears"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "name": "Singularity Hero #4161",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/Qmbjmh2CkHbPDQSdYf2sn8AYDftgbBcFDufhD2RrqsZp23",
+  "attributes": [
+    {
+      "trait_type": "Eye",
+      "value": "Fire"
+    },
+    {
+      "trait_type": "Glases",
+      "value": "Love"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Dark violet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Human white"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Tuxedo"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Swords"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Foil cap"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Elf Ears"
+    }
+  ]
+}

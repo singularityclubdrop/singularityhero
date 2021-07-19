@@ -1,0 +1,43 @@
+{
+  "name": "Singularity Hero #2496",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmfZb1B1qMu5Jw4TwWtgQJ191mC6BZJMo6YmbB7Z9dJooe",
+  "attributes": [
+    {
+      "trait_type": "Eye",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Glases",
+      "value": "Harry Potter"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Scars"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Dark blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Human white"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Disgruntled"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Alien Eye"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Сowboy"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Lightning"
+    }
+  ]
+}

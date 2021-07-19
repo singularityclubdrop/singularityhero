@@ -1,0 +1,39 @@
+{
+  "name": "Singularity Hero #4326",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmdsksTjZH2PvA3ouLHP9z9utpGBfAH1PCmN1Eomw3Tkcn",
+  "attributes": [
+    {
+      "trait_type": "Eye",
+      "value": "Snake"
+    },
+    {
+      "trait_type": "Glases",
+      "value": "Oval"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Kung fu"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Lilac"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Human white"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Danger"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Torch"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Short blonde"
+    }
+  ]
+}

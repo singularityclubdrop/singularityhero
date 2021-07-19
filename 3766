@@ -1,0 +1,39 @@
+{
+  "name": "Singularity Hero #3766",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmRMMWo6MKYTGaR24LoebCUqVyfH6iMNuYqzBzedGnQ9Ci",
+  "attributes": [
+    {
+      "trait_type": "Eye",
+      "value": "Demon"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Sweatshirt"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Backpack Red"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Dark blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Human white"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Sadness"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Zombie"
+    }
+  ]
+}

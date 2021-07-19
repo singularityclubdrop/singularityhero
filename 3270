@@ -1,0 +1,35 @@
+{
+  "name": "Singularity Hero #3270",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/Qmb3XDEBVbmMuQaSkEesTaHVmVZQSfkQ7duuq3CY79pWEs",
+  "attributes": [
+    {
+      "trait_type": "Eye",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Glases",
+      "value": "Harry Potter"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "AC/DC"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Human black"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Baby face"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sleek hair"
+    }
+  ]
+}

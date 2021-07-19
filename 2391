@@ -1,0 +1,43 @@
+{
+  "name": "Singularity Hero #2391",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmfLM2cPVddSSYYR2Xq3Md2C8tVb5DjjftbMGtwaRRv9Ma",
+  "attributes": [
+    {
+      "trait_type": "Eye",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Glases",
+      "value": "Love"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Dirty shirt"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Turquoise"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Joker"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Swords"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Short bangs"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Holes"
+    }
+  ]
+}

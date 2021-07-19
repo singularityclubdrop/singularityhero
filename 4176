@@ -1,0 +1,43 @@
+{
+  "name": "Singularity Hero #4176",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmaeG6UszSyiBtjSvUr1YmWMBVYsrruiz22MifJJQzcrwZ",
+  "attributes": [
+    {
+      "trait_type": "Eye",
+      "value": "Fire"
+    },
+    {
+      "trait_type": "Glases",
+      "value": "Oval"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Dealer"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Backpack Blue"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Human black"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Anger"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dealer"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Frankenstein"
+    }
+  ]
+}

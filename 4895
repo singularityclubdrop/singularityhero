@@ -1,0 +1,35 @@
+{
+  "name": "Singularity Hero #4895",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/Qmabh5FwDgArf7tB4nP4m1Vmv2ZMVhxNwgTKRnjS977gCs",
+  "attributes": [
+    {
+      "trait_type": "Eye",
+      "value": "Snake"
+    },
+    {
+      "trait_type": "Glases",
+      "value": "Harry Potter"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Blown vest"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Dark violet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Face",
+      "value": "SteamPunk mask"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Elf Hair"
+    }
+  ]
+}

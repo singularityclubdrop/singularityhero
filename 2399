@@ -1,0 +1,35 @@
+{
+  "name": "Singularity Hero #2399",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmR5wRmw17WZvnCRtUuc6N6waeVtF9Z8FLmNAYNdJP76TZ",
+  "attributes": [
+    {
+      "trait_type": "Glases",
+      "value": "Stars"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Backpack Red"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Human white"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cylinder hat"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Elf Ears"
+    }
+  ]
+}

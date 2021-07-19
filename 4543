@@ -1,0 +1,43 @@
+{
+  "name": "Singularity Hero #4543",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmWP1qYQpGyJNY67JhLxngg2iEa9du2eYxTGSYY7Rhgr7K",
+  "attributes": [
+    {
+      "trait_type": "Eye",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "Glases",
+      "value": "Stars"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Heavenly"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Yellow shirt"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Base mask"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Swords"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sketchy styling"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Zombie"
+    }
+  ]
+}

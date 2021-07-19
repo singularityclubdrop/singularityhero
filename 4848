@@ -1,0 +1,39 @@
+{
+  "name": "Singularity Hero #4848",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmcXqU81nGSywj96FfALtjGgahxi8HDU3hyoh3Jja51Stz",
+  "attributes": [
+    {
+      "trait_type": "Eye",
+      "value": "Fire"
+    },
+    {
+      "trait_type": "Glases",
+      "value": "Rock"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "AC/DC"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Smirk"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Reggae"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Stars"
+    }
+  ]
+}

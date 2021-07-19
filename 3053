@@ -1,0 +1,43 @@
+{
+  "name": "Singularity Hero #3053",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmRPCfvqQmmZVg97g2U94b9gGPP3LHHkRKzoDmWWTBLdhc",
+  "attributes": [
+    {
+      "trait_type": "Eye",
+      "value": "Money Maker"
+    },
+    {
+      "trait_type": "Glases",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Scars"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Backpack Red"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Zebra mask"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bamboo hat"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Lightning"
+    }
+  ]
+}

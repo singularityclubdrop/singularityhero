@@ -1,0 +1,39 @@
+{
+  "name": "Singularity Hero #2808",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmXGH4Lr8cchSWrHsschQBrHR2wUfC6F8sCrkjE751T35b",
+  "attributes": [
+    {
+      "trait_type": "Eye",
+      "value": "Fire"
+    },
+    {
+      "trait_type": "Glases",
+      "value": "Work"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Human black"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Life jacket"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Zebra mask"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Keyboard"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Gothic"
+    }
+  ]
+}

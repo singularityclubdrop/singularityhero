@@ -1,0 +1,39 @@
+{
+  "name": "Singularity Hero #3386",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmZAE1yhjjUL77Z14BqnA7kueGfFWtF46xU3GbFuCc9E2T",
+  "attributes": [
+    {
+      "trait_type": "Eye",
+      "value": "Hypnotic"
+    },
+    {
+      "trait_type": "Glases",
+      "value": "Narrow"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Dirty shirt"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Heavenly"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Human black"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Smoking"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cylinder hat"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Holes"
+    }
+  ]
+}

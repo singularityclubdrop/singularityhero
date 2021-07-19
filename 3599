@@ -1,0 +1,39 @@
+{
+  "name": "Singularity Hero #3599",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmZdH9bpovWb7G5kYeoUCLJyc8jciCRcxuPUmHUrLY6Ujf",
+  "attributes": [
+    {
+      "trait_type": "Eye",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "Glases",
+      "value": "Oval"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Poker t-shirt"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Zebra mask"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Prodigy"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Pierced ears"
+    }
+  ]
+}

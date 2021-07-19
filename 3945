@@ -1,0 +1,43 @@
+{
+  "name": "Singularity Hero #3945",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmVEu8SWY5LXSLnot1gz8jxw7VkfiJiZdMetTveMT32hYJ",
+  "attributes": [
+    {
+      "trait_type": "Eye",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Glases",
+      "value": "Scar"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Hoodie"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Lilac"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Human white"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Zebra mask"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Trident"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Сlassic haircut"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Gothic"
+    }
+  ]
+}

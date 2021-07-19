@@ -1,0 +1,31 @@
+{
+  "name": "Singularity Hero #2168",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmXSzSuE3VcXEVjEjQB5zTc5agaekoqLVx3wMTomHVb3Q5",
+  "attributes": [
+    {
+      "trait_type": "Eye",
+      "value": "Money Maker"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Dark violet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Pink t-shirt"
+    },
+    {
+      "trait_type": "Face",
+      "value": "SteamPunk mask"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Hedgehog hair"
+    }
+  ]
+}

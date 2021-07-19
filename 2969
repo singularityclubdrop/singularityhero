@@ -1,0 +1,39 @@
+{
+  "name": "Singularity Hero #2969",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmXY9CBDrj8u1S8iFZBro4ymeUGNCNXSrX1sDGgziGz4sf",
+  "attributes": [
+    {
+      "trait_type": "Eye",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "Glases",
+      "value": "Oval"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Dirty shirt"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Dark blue"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Cyber mask"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pitter Parker hair"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Pierced ears"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Aqua"
+    }
+  ]
+}

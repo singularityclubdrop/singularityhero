@@ -1,0 +1,39 @@
+{
+  "name": "Singularity Hero #3312",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/Qmdxfu2NVZV8iHrek5wc9uPnRNbjbh6ABMp2uujroHVs26",
+  "attributes": [
+    {
+      "trait_type": "Eye",
+      "value": "Snake"
+    },
+    {
+      "trait_type": "Glases",
+      "value": "Ray Ban violet"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Blown vest"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Lilac"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Leopard mask"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Long Dreads"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Stars"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Aqua"
+    }
+  ]
+}

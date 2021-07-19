@@ -1,0 +1,43 @@
+{
+  "name": "Singularity Hero #2034",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmUrin9Fc4mBhCeL1uddMgxzcL36wYVcy3NS8VH72XZmLo",
+  "attributes": [
+    {
+      "trait_type": "Eye",
+      "value": "Fire"
+    },
+    {
+      "trait_type": "Glases",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Bomber"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Backpack Blue"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Face",
+      "value": "SubZero mask"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Hat"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Elf Ears"
+    }
+  ]
+}

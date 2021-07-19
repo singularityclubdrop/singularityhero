@@ -1,0 +1,43 @@
+{
+  "name": "Singularity Hero #2511",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmZcsBAxWt7jNYeXyyvEzyp4yZjYS6Gu1QiHNmAUC6ZCMn",
+  "attributes": [
+    {
+      "trait_type": "Eye",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Glases",
+      "value": "Ray Ban violet"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Scars"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Backpack Blue"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Human white"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Base mask"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pitter Parker hair"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Elf Ears"
+    }
+  ]
+}

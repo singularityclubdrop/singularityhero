@@ -1,0 +1,43 @@
+{
+  "name": "Singularity Hero #3151",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmNo8phCcoJ7hyzJoEqWzLNjqB9u12qxuHzvPNQ2PTt94Q",
+  "attributes": [
+    {
+      "trait_type": "Eye",
+      "value": "Fire"
+    },
+    {
+      "trait_type": "Glases",
+      "value": "Steam punk"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Army"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Gannibal mask"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Keyboard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dreads"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Holes"
+    }
+  ]
+}

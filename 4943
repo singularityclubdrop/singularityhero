@@ -1,0 +1,39 @@
+{
+  "name": "Singularity Hero #4943",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmcL2zgFe6jKpdeV6CVnK5iDaeWgvd9J7Crmt6RQyYVFny",
+  "attributes": [
+    {
+      "trait_type": "Eye",
+      "value": "Love"
+    },
+    {
+      "trait_type": "Glases",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Human white"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Base mask"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Keyboard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Reggae"
+    }
+  ]
+}

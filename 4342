@@ -1,0 +1,39 @@
+{
+  "name": "Singularity Hero #4342",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmQNwbgw1BjQMiSQdmi3rqbdWHHvpsN6ighdoep3HGJmVo",
+  "attributes": [
+    {
+      "trait_type": "Eye",
+      "value": "Fire"
+    },
+    {
+      "trait_type": "Glases",
+      "value": "Stars"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Blown vest"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Turquoise"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Keyboard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Short blonde"
+    }
+  ]
+}

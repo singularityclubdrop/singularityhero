@@ -1,0 +1,39 @@
+{
+  "name": "Singularity Hero #4064",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmPRwc8NdrYsXQ62UKhKSrT6zWHuqcYMQ9nGM9zE6Kq5fK",
+  "attributes": [
+    {
+      "trait_type": "Glases",
+      "value": "Harry Potter"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Lilac"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Pink t-shirt"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Disgruntled"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Swords"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Сlown hair"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Frankenstein"
+    }
+  ]
+}

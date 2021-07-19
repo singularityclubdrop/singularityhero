@@ -1,0 +1,39 @@
+{
+  "name": "Singularity Hero #2233",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmVTsLw5egCvf84jAxF13MRS5qrn2wofAxRdPRBAzA2ASy",
+  "attributes": [
+    {
+      "trait_type": "Glases",
+      "value": "Morpheus"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Hawaiian"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Backpack Blue"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Sadness"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Pierced ears"
+    }
+  ]
+}

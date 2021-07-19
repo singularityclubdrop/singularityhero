@@ -1,0 +1,43 @@
+{
+  "name": "Singularity Hero #4875",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmYpYn8kgTrY15EPTU82X57mBctJpSAd9Jr5ni1yKaULUB",
+  "attributes": [
+    {
+      "trait_type": "Eye",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Glases",
+      "value": "Stars"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Heavenly"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Human white"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Cyber mask"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Swords"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dealer"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Holes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Thor's Armor"
+    }
+  ]
+}

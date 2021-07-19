@@ -1,0 +1,39 @@
+{
+  "name": "Singularity Hero #4306",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmUwFHHFWuzVNpSDkTkFtRmFrXqtzGg17p1UBYWR74Zay1",
+  "attributes": [
+    {
+      "trait_type": "Eye",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Glases",
+      "value": "Pixel"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Blown vest"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Backpack Red"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Dark blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Human white"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Smirk"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cylinder hat"
+    }
+  ]
+}

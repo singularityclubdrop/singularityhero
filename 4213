@@ -1,0 +1,43 @@
+{
+  "name": "Singularity Hero #4213",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmdfiJtoZex5Ef9GwP7KzkiiSHZbYPgzdCZMvKtvcqxgeu",
+  "attributes": [
+    {
+      "trait_type": "Eye",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Glases",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Сhain"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Dark blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Fire"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Yellow shirt"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Sadness"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bamboo hat"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Stars"
+    }
+  ]
+}

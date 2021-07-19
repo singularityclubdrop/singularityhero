@@ -1,0 +1,39 @@
+{
+  "name": "Singularity Hero #4453",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmYebLnDyRPz1P1DUDKqjKh7AmBwtDa3Z6z8bVg4XwkdUt",
+  "attributes": [
+    {
+      "trait_type": "Eye",
+      "value": "Fire"
+    },
+    {
+      "trait_type": "Glases",
+      "value": "Ray Ban violet"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Human white"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Cosmetic mask"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Short blonde"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Pierced ears"
+    }
+  ]
+}

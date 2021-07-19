@@ -1,0 +1,39 @@
+{
+  "name": "Singularity Hero #2306",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmNb6y9JGgG3xzEaPqV9U9uMj84iJtbzoPX1koGng26eAN",
+  "attributes": [
+    {
+      "trait_type": "Eye",
+      "value": "Money Maker"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Poker t-shirt"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Lilac"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Cyber mask"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Robot Hands"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Viking hat"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Lightning"
+    }
+  ]
+}

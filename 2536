@@ -1,0 +1,39 @@
+{
+  "name": "Singularity Hero #2536",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmaHS4mH7WabfCYnTps9jd5rc8Q7tsnfLbjHgrhWEVrQP3",
+  "attributes": [
+    {
+      "trait_type": "Eye",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Glases",
+      "value": "Rectangular"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Сhain"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Ethereum T-shirt"
+    },
+    {
+      "trait_type": "Face",
+      "value": "SubZero mask"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Сlown hair"
+    }
+  ]
+}

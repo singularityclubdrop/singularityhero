@@ -1,0 +1,43 @@
+{
+  "name": "Singularity Hero #2626",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmZMCt5H39mhfT5gMTc1NHykGzVCgLqS5rPr56Zcv3Fs69",
+  "attributes": [
+    {
+      "trait_type": "Eye",
+      "value": "Snake"
+    },
+    {
+      "trait_type": "Glases",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Denim vest"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Сhain"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Human white"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Base mask"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Сlown hair"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Lightning"
+    }
+  ]
+}

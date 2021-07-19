@@ -1,0 +1,39 @@
+{
+  "name": "Singularity Hero #4219",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmQycD9eKTZiAMWLDUstPArysbQk3ieWcJe1rogrbFZTN1",
+  "attributes": [
+    {
+      "trait_type": "Glases",
+      "value": "Goggles"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Psycho"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Dark blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Bain mask"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Torch"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Prodigy"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Stars"
+    }
+  ]
+}

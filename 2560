@@ -1,0 +1,31 @@
+{
+  "name": "Singularity Hero #2560",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmcZ8LnnqGXDkXPCD27Ceni6pUDaGetYQSy4kyCEp9EE3D",
+  "attributes": [
+    {
+      "trait_type": "Glases",
+      "value": "Goggles"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Suspenders"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Human white"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Danger"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Hedgehog hair"
+    }
+  ]
+}

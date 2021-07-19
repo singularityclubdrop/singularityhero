@@ -1,0 +1,39 @@
+{
+  "name": "Singularity Hero #4673",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmVfLqteB9UhteQDedhtcga35AxwKTwEoowj1L2CmGCcD2",
+  "attributes": [
+    {
+      "trait_type": "Eye",
+      "value": "Aqua"
+    },
+    {
+      "trait_type": "Glases",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Blown vest"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Heavenly"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Anger"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Short bangs"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Stars"
+    }
+  ]
+}

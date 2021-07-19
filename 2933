@@ -1,0 +1,35 @@
+{
+  "name": "Singularity Hero #2933",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmU7VNex28Ji4WXqWh3JXY3TiGhKSoWeNYmZedZVt2uaiC",
+  "attributes": [
+    {
+      "trait_type": "Eye",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Glases",
+      "value": "Ray Ban transparent"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "AC/DC"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Turquoise"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Human black"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Anger"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Stars"
+    }
+  ]
+}

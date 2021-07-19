@@ -1,0 +1,35 @@
+{
+  "name": "Singularity Hero #4730",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmW6Lu7Z4na9wTRHD6LuiTHvf3gatv8aMyj4eva3yxeTLi",
+  "attributes": [
+    {
+      "trait_type": "Glases",
+      "value": "Pixel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Heavenly"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Fire"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Dinamic mask"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Prodigy"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Stars"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Clown"
+    }
+  ]
+}

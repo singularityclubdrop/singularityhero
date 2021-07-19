@@ -1,0 +1,39 @@
+{
+  "name": "Singularity Hero #2022",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmbWCWvMkKGQxBLPu8MTTrDoNPBCDjd2Woj3dv62H19L9T",
+  "attributes": [
+    {
+      "trait_type": "Eye",
+      "value": "Electric"
+    },
+    {
+      "trait_type": "Glases",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Yellow shirt"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Smirk"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dreads"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Stars"
+    }
+  ]
+}

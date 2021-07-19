@@ -1,0 +1,35 @@
+{
+  "name": "Singularity Hero #4768",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmXdfHA3JDpKSzoFCWGdvs3hcyZ9mnmzLXyxZWaEZLQTxa",
+  "attributes": [
+    {
+      "trait_type": "Eye",
+      "value": "Fire"
+    },
+    {
+      "trait_type": "Glases",
+      "value": "Harry Potter"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Poker t-shirt"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Heavenly"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Cosmetic mask"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Prodigy"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Singularity Hero #3275",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmajhnmUjYXfg3Lzm9rF93vyxZDktaVLnATf6VhJi5UiGA",
+  "attributes": [
+    {
+      "trait_type": "Eye",
+      "value": "Electric"
+    },
+    {
+      "trait_type": "Glases",
+      "value": "Morpheus"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Denim vest"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Cyber mask"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Swords"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pot hairstyle"
+    }
+  ]
+}

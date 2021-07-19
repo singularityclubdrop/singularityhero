@@ -1,0 +1,35 @@
+{
+  "name": "Singularity Hero #3265",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmX8fL68Zha1i5t2bj7nNvzLgt2168qcDHbJRcexX2FY9V",
+  "attributes": [
+    {
+      "trait_type": "Eye",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Glases",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Blown vest"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Dark violet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Face",
+      "value": "SteamPunk mask"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Superman hair"
+    }
+  ]
+}

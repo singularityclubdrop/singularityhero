@@ -1,0 +1,35 @@
+{
+  "name": "Singularity Hero #3098",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmZ9ZMihkDfQeqQqtQpNbeYfRjrTPwTaQ7umi7atkbRbUB",
+  "attributes": [
+    {
+      "trait_type": "Glases",
+      "value": "Ray Ban violet"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Dark violet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Human white"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Pink t-shirt"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Gas mask"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Foil cap"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Beads"
+    }
+  ]
+}

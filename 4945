@@ -1,0 +1,31 @@
+{
+  "name": "Singularity Hero #4945",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmdADtNXFp6RF3Li6CHWDUH1AuFaRkakMsqMv47xTZEZQR",
+  "attributes": [
+    {
+      "trait_type": "Glases",
+      "value": "Pixel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Heavenly"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Gas mask"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bandanna"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Zombie"
+    }
+  ]
+}

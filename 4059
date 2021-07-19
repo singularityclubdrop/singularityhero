@@ -1,0 +1,35 @@
+{
+  "name": "Singularity Hero #4059",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmR16wzBHjKDFHez8bgo3tCu7BGMhj9WGU7fXki77mPsa8",
+  "attributes": [
+    {
+      "trait_type": "Eye",
+      "value": "Hypnotic"
+    },
+    {
+      "trait_type": "Glases",
+      "value": "Rectangular"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Danger"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Afro"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Racer"
+    }
+  ]
+}

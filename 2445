@@ -1,0 +1,31 @@
+{
+  "name": "Singularity Hero #2445",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/Qmdzxj9UDvexiXGwq8GsLEJb942SHEjuPiPuUciu4DS28z",
+  "attributes": [
+    {
+      "trait_type": "Eye",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Glases",
+      "value": "Harry Potter"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Dark blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Fire"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Disgruntled"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Long Dreads"
+    }
+  ]
+}

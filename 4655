@@ -1,0 +1,39 @@
+{
+  "name": "Singularity Hero #4655",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmNNFTsd4HXyVvuAeUa3E7cSpmV4avopxD9np7aoWccTQX",
+  "attributes": [
+    {
+      "trait_type": "Eye",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Glases",
+      "value": "Steam punk"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Dark violet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Life jacket"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Demon's tongue"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Viking hat"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Stars"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Singularity Hero #2031",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmeKbSn7fzKJWk6u5TmXK4Lwa5DsHqgSip1qCrNRKiWADL",
+  "attributes": [
+    {
+      "trait_type": "Eye",
+      "value": "Fire"
+    },
+    {
+      "trait_type": "Glases",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "AC/DC"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Turquoise"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Base mask"
+    },
+    {
+      "trait_type": "Head",
+      "value": "The cap"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Holes"
+    }
+  ]
+}

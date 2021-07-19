@@ -1,0 +1,35 @@
+{
+  "name": "Singularity Hero #3865",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmdHNa6EHNVfhqwhqw2fcurKcDE9jrM2dZgEUNKbsYLWgD",
+  "attributes": [
+    {
+      "trait_type": "Eye",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Glases",
+      "value": "Love"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Dirty shirt"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Dark blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Joker"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Сap"
+    }
+  ]
+}

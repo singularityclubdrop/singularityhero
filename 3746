@@ -1,0 +1,39 @@
+{
+  "name": "Singularity Hero #3746",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmXHmnwaNnuL35BEeNhBW1cxS5CuttD71knAj29bzRwAmg",
+  "attributes": [
+    {
+      "trait_type": "Eye",
+      "value": "Snake"
+    },
+    {
+      "trait_type": "Glases",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Scars"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Human white"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Demon smile"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bro Flow"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Frankenstein"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "name": "Singularity Hero #2104",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmNhNjdJa9Az1LdRh7Nm3LmkmvxSGjUVtLTmkGnBDb5pBP",
+  "attributes": [
+    {
+      "trait_type": "Eye",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "Glases",
+      "value": "Ray Ban transparent"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "AC/DC"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Backpack Blue"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Base mask"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Prodigy"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Holes"
+    }
+  ]
+}

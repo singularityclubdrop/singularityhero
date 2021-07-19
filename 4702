@@ -1,0 +1,43 @@
+{
+  "name": "Singularity Hero #4702",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmX4dJyxJh5vHzvQhzXeGk2RxrJAoqt4djN5igUUZFuY1W",
+  "attributes": [
+    {
+      "trait_type": "Eye",
+      "value": "Love"
+    },
+    {
+      "trait_type": "Glases",
+      "value": "Oval"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Heavenly"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Human white"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Joystick"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Anger"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dealer"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Frankenstein"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Racer"
+    }
+  ]
+}

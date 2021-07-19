@@ -1,0 +1,39 @@
+{
+  "name": "Singularity Hero #2686",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/Qmbwm6u9kSamCeWm4EHGrnLSSFU3iKxAjmGQ2gwGbHMwNc",
+  "attributes": [
+    {
+      "trait_type": "Eye",
+      "value": "Fire"
+    },
+    {
+      "trait_type": "Glases",
+      "value": "Ray Ban transparent"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Backpack Blue"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Lilac"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Base mask"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Gothic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Singularity Hero"
+    }
+  ]
+}

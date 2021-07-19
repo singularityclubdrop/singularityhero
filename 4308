@@ -1,0 +1,35 @@
+{
+  "name": "Singularity Hero #4308",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmZcGijZGAiaLa5xm2jZjysZKkKPStXi989by2UPGj4VMq",
+  "attributes": [
+    {
+      "trait_type": "Eye",
+      "value": "Snake"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Dirty shirt"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Heavenly"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Robot mask"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Robot Hands"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Сlassic haircut"
+    }
+  ]
+}

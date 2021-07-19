@@ -1,0 +1,31 @@
+{
+  "name": "Singularity Hero #2842",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmXTbMNtEBMsu6JGUdV3JQcMSFczw2E1e5r87Xq29EwE1L",
+  "attributes": [
+    {
+      "trait_type": "Eye",
+      "value": "Aqua"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Dark violet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Danger"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cylinder hat"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Zombie"
+    }
+  ]
+}

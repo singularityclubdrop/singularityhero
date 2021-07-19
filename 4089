@@ -1,0 +1,39 @@
+{
+  "name": "Singularity Hero #4089",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmR8DHn6gvJvm7BSsraDEhesk7BZA4M9BEBr7UzehgqFpQ",
+  "attributes": [
+    {
+      "trait_type": "Eye",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Glases",
+      "value": "Stars"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Scars"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Heavenly"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Human white"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Sadness"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mini Afro black"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Lightning"
+    }
+  ]
+}

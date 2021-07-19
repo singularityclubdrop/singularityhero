@@ -1,0 +1,43 @@
+{
+  "name": "Singularity Hero #2804",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmVnMkb75AvuB9BG7evxSYSi6U84T4UX4X5g5WNDpzk9Ui",
+  "attributes": [
+    {
+      "trait_type": "Eye",
+      "value": "Money Maker"
+    },
+    {
+      "trait_type": "Glases",
+      "value": "Stars"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Lilac"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Base mask"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Keyboard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Viking hat"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Lightning"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Joker Jacket"
+    }
+  ]
+}

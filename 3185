@@ -1,0 +1,39 @@
+{
+  "name": "Singularity Hero #3185",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmV8Bgmco15de4ktPS8XDZ2zT1o4VB6FudohnPvwnZ2kfJ",
+  "attributes": [
+    {
+      "trait_type": "Eye",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Dark blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Tatoo"
+    },
+    {
+      "trait_type": "Face",
+      "value": "SubZero mask"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Keyboard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Foil cap"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Beads"
+    }
+  ]
+}

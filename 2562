@@ -1,0 +1,43 @@
+{
+  "name": "Singularity Hero #2562",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmPtUHT8yDavyMhEL9kJ8ZXTdA6bXCRmBJiAHi1GNXWVAi",
+  "attributes": [
+    {
+      "trait_type": "Eye",
+      "value": "Fire"
+    },
+    {
+      "trait_type": "Glases",
+      "value": "Narrow"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Dirty shirt"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Heavenly"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Anger"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Robot Hands"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dreads"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Gothic"
+    }
+  ]
+}

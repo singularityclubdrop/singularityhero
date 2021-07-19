@@ -1,0 +1,39 @@
+{
+  "name": "Singularity Hero #3567",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmYWAsPEuKVS67s8AXcjjBXogbFwSAyE1Cn6uwR7opahP8",
+  "attributes": [
+    {
+      "trait_type": "Eye",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Glases",
+      "value": "Scar"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Yellow shirt"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Leopard mask"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Purple hat"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Stars"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Aqua"
+    }
+  ]
+}

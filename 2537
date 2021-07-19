@@ -1,0 +1,39 @@
+{
+  "name": "Singularity Hero #2537",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmSrPEWwLEueAHD4MNGAf6JWRnYdkiWwVhMkxVUKLNbtKB",
+  "attributes": [
+    {
+      "trait_type": "Eye",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Glases",
+      "value": "Ray Ban violet"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Poker t-shirt"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Baby face"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mini Afro black"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Stars"
+    }
+  ]
+}

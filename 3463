@@ -1,0 +1,27 @@
+{
+  "name": "Singularity Hero #3463",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmPmgWvkN7UsNtDLMi3HD1XPZTAr5r24yDNwoKtkNZGv1T",
+  "attributes": [
+    {
+      "trait_type": "Eye",
+      "value": "Fire"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Lilac"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Danger"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Yellow blazer"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Singularity Hero #2874",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmUj1DNP6iuPnVpPdJxfRx6GYf8zy7Y8GbPqftvndigkfv",
+  "attributes": [
+    {
+      "trait_type": "Eye",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Leather jacket"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Backpack Blue"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Dark violet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Joker"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Helicopter hat"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Beads"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Singularity Hero #3957",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmRj6LC5SpyMCDKAsBcsgKdxXr45139FHY3LHdehuLgPcF",
+  "attributes": [
+    {
+      "trait_type": "Eye",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Leather jacket"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Сhain"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Human black"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Smoking"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Elf Hair"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Skull"
+    }
+  ]
+}

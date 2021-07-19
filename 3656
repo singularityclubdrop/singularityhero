@@ -1,0 +1,35 @@
+{
+  "name": "Singularity Hero #3656",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmeojYHztqwpiSPJ12x6hbmr56jHj8rpW4Mnr7ADLg8QoV",
+  "attributes": [
+    {
+      "trait_type": "Eye",
+      "value": "Fire"
+    },
+    {
+      "trait_type": "Glases",
+      "value": "Bandage"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Denim vest"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Turquoise"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Human black"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Smoking"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Joker"
+    }
+  ]
+}

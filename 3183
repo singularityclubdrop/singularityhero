@@ -1,0 +1,39 @@
+{
+  "name": "Singularity Hero #3183",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmTcibUU1ckWNCQhrbYM1kbukxkgp84U1TB2Cs6MgGVgge",
+  "attributes": [
+    {
+      "trait_type": "Eye",
+      "value": "Snake"
+    },
+    {
+      "trait_type": "Glases",
+      "value": "Pixel"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Hawaiian"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Dark violet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Mad mask"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Short blonde"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Skull"
+    }
+  ]
+}

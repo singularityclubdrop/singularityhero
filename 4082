@@ -1,0 +1,39 @@
+{
+  "name": "Singularity Hero #4082",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmdPbn9qL1aVASp2LUuFrNgrgvw7F1rRYEvmjeUXyCxwqF",
+  "attributes": [
+    {
+      "trait_type": "Glases",
+      "value": "Love"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Scars"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Dark blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Human black"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Joystick"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Gas mask"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Ugly hair"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Holes"
+    }
+  ]
+}

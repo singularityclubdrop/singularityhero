@@ -1,0 +1,39 @@
+{
+  "name": "Singularity Hero #3111",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmQHQMS7RPGwX43GaVPSHN6eCJDX13nyqWfaVQ1pVz2xzx",
+  "attributes": [
+    {
+      "trait_type": "Eye",
+      "value": "Fire"
+    },
+    {
+      "trait_type": "Glases",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Leopard mask"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Rainbow hair"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Beads"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Thor's Armor"
+    }
+  ]
+}

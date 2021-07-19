@@ -1,0 +1,39 @@
+{
+  "name": "Singularity Hero #3474",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmRt4ySzMwpCGAAogSzrZrwj6dN5ZXtHt9BAD9qbNCJZ5F",
+  "attributes": [
+    {
+      "trait_type": "Eye",
+      "value": "Stars"
+    },
+    {
+      "trait_type": "Glases",
+      "value": "Ray Ban violet"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Сhain"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Pink t-shirt"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Anger"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Сlown hair"
+    }
+  ]
+}

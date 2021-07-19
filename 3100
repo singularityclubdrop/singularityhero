@@ -1,0 +1,39 @@
+{
+  "name": "Singularity Hero #3100",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmW2mj3zqdzif9M7SfSYJtcz3dk8jDmV9Q3mFZX36XQm8d",
+  "attributes": [
+    {
+      "trait_type": "Eye",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Glases",
+      "value": "Goggles"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Psycho"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Heavenly"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Human black"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Base mask"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Swords"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Big brain"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Singularity Hero #3087",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmTDRWh4cSYSkcHD1WVD6WBDpUazsjbwpEZfQptCYtHjPw",
+  "attributes": [
+    {
+      "trait_type": "Eye",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Army"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Human white"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Disgruntled"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Joker"
+    }
+  ]
+}

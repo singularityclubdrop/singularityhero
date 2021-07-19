@@ -1,0 +1,31 @@
+{
+  "name": "Singularity Hero #3753",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/Qmdjthnjbxaa4QvK9VxT4DFTwf6iAU3FDesVVZ9VesYhzp",
+  "attributes": [
+    {
+      "trait_type": "Clothes",
+      "value": "Psycho"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Backpack Blue"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Turquoise"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Human black"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Disgruntled"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Long hair"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Singularity Hero #4816",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmYHSk2pW1PGHyenZCLFK4TXG3oX5n5DuG8rwy9JdZAMQX",
+  "attributes": [
+    {
+      "trait_type": "Clothes",
+      "value": "Hawaiian"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Dark blue"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Mad mask"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bandanna"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Pierced ears"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Aqua"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Singularity Hero #3570",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmNfLjbk296QhZVL55bX6xxisR6vqmCJLmuyAbJq6LJ7Wi",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark violet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Human black"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Ethereum T-shirt"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Mad mask"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Elf Hair"
+    }
+  ]
+}

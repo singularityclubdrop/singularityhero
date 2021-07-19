@@ -1,0 +1,27 @@
+{
+  "name": "Singularity Hero #3789",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmXoLwF7Pbs1xfq8Pg26oUixG2dYRcTLxveZh1UbGNWHrf",
+  "attributes": [
+    {
+      "trait_type": "Clothes",
+      "value": "Dirty shirt"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Heavenly"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Human black"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Base mask"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bamboo hat"
+    }
+  ]
+}

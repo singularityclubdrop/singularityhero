@@ -1,0 +1,35 @@
+{
+  "name": "Singularity Hero #4548",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmT6MciJSs4d3n6W67cZUyAPsBKJMCxh2RBMCFJf2FmBD6",
+  "attributes": [
+    {
+      "trait_type": "Glases",
+      "value": "Steam punk"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Heavenly"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Joker"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Keyboard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Long hair"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Holes"
+    }
+  ]
+}

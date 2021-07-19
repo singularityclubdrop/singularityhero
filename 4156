@@ -1,0 +1,39 @@
+{
+  "name": "Singularity Hero #4156",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmS1wxFF6MSunu2fdLLmSe5zbojB9thrsERX47ztFc5w7f",
+  "attributes": [
+    {
+      "trait_type": "Eye",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Glases",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Human white"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Anger"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bandanna"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Yellow blazer"
+    }
+  ]
+}

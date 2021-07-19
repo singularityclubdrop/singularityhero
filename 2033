@@ -1,0 +1,43 @@
+{
+  "name": "Singularity Hero #2033",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/Qmcp4Sw4rwPosTLLU6qPWS8TvSvr2YorZYtwE1ngRgUXx5",
+  "attributes": [
+    {
+      "trait_type": "Eye",
+      "value": "Electric"
+    },
+    {
+      "trait_type": "Glases",
+      "value": "Ray Ban transparent"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Human white"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Zebra mask"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Swords"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Jester's hat"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Pierced ears"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Clown"
+    }
+  ]
+}

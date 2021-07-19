@@ -1,0 +1,39 @@
+{
+  "name": "Singularity Hero #2862",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmYPBftU9LaX8gsk91FsPSdn6n24o2xsW8Qt5u9eqXoynd",
+  "attributes": [
+    {
+      "trait_type": "Eye",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Glases",
+      "value": "Pixel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Sadness"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Keyboard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bro Flow"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Joker Jacket"
+    }
+  ]
+}

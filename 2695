@@ -1,0 +1,35 @@
+{
+  "name": "Singularity Hero #2695",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmNqpDPwGooobp9jFGTVJq8j14AyRBE4JnLUdLAMmZ6gay",
+  "attributes": [
+    {
+      "trait_type": "Glases",
+      "value": "Morpheus"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Сhain"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Turquoise"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Tuxedo"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Bain mask"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Long hair"
+    }
+  ]
+}

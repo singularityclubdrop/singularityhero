@@ -1,0 +1,35 @@
+{
+  "name": "Singularity Hero #3508",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmafGLuaAMcsxjxvNFDHVsBv3zEA7gxG4xdHPyoqHGcA7j",
+  "attributes": [
+    {
+      "trait_type": "Eye",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Glases",
+      "value": "Rectangular"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Turquoise"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Yellow shirt"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Base mask"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Trident"
+    }
+  ]
+}

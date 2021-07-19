@@ -1,0 +1,35 @@
+{
+  "name": "Singularity Hero #4033",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmfQoDyazR87cvkNtdowrmUUaRYV8eNQWA68eaQxEY5dMy",
+  "attributes": [
+    {
+      "trait_type": "Eye",
+      "value": "Love"
+    },
+    {
+      "trait_type": "Glases",
+      "value": "Ray Ban transparent"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Denim"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Dark violet"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Rainbow hair"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Oxygen mask"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Aqua"
+    }
+  ]
+}

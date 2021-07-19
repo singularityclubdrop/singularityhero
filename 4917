@@ -1,0 +1,39 @@
+{
+  "name": "Singularity Hero #4917",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmbcAGDJJvZp7MDXQ1QQqN5qth8cMjsAaAYeXhgFwgCC4G",
+  "attributes": [
+    {
+      "trait_type": "Eye",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Dirty shirt"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Сhain"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Human black"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Smirk"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mini Afro black"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Skull"
+    }
+  ]
+}

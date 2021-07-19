@@ -1,0 +1,43 @@
+{
+  "name": "Singularity Hero #4122",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmZrbATa278Fp3E5CDirtHy7fWeXy4wq92cn2Zgh9FGRJE",
+  "attributes": [
+    {
+      "trait_type": "Eye",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Glases",
+      "value": "Bandage"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Heavenly"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Zebra mask"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Swords"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pitter Parker hair"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Frankenstein"
+    }
+  ]
+}

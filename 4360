@@ -1,0 +1,39 @@
+{
+  "name": "Singularity Hero #4360",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmXnFjJgsjdKzD21S5FDniqbBq74FbnoSsBvUKDtvQXf8Z",
+  "attributes": [
+    {
+      "trait_type": "Eye",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Glases",
+      "value": "Scar"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Human black"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Base mask"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Alien Eye"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Ugly hair"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Yellow blazer"
+    }
+  ]
+}

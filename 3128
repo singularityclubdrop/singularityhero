@@ -1,0 +1,31 @@
+{
+  "name": "Singularity Hero #3128",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/Qmc9mR2gpykKuPe19J25o5woqW18ZP1qKpqYhfFMzAyXqW",
+  "attributes": [
+    {
+      "trait_type": "Clothes",
+      "value": "Army"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Heavenly"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Smirk"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Long hair"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Stars"
+    }
+  ]
+}

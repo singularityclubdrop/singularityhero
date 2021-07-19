@@ -1,0 +1,43 @@
+{
+  "name": "Singularity Hero #2302",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmNtVBXWnmhGY5bpV6L1kM93zyeqcwVjXLasFauWuybvqy",
+  "attributes": [
+    {
+      "trait_type": "Eye",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Glases",
+      "value": "Oval"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Tatoo"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Torch"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Hedgehog hair"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Gothic"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Oxygen mask"
+    }
+  ]
+}

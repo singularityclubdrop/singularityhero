@@ -1,0 +1,39 @@
+{
+  "name": "Singularity Hero #2855",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmSWSzcp2Cm1QsHFcytRp1GAZoQRvwZNjZi8YCBz56AZKt",
+  "attributes": [
+    {
+      "trait_type": "Eye",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Human black"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Shawl"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Swords"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Lightning"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Clown"
+    },
+    {
+      "trait_type": "Head",
+      "value": "White elf"
+    }
+  ]
+}

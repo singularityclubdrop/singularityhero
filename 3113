@@ -1,0 +1,39 @@
+{
+  "name": "Singularity Hero #3113",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmaNfR5rwyPkspdX2uwhjB3CnhQz46KACQ8rht1Beexh3N",
+  "attributes": [
+    {
+      "trait_type": "Eye",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Suspenders"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Lilac"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Joker"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Torch"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Prodigy"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Frankenstein"
+    }
+  ]
+}

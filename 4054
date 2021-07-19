@@ -1,0 +1,35 @@
+{
+  "name": "Singularity Hero #4054",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmWsqwpY5YGn7vFY9BVbKo2c8t7j5f1h1ju9qWJRje12cf",
+  "attributes": [
+    {
+      "trait_type": "Eye",
+      "value": "Stars"
+    },
+    {
+      "trait_type": "Glases",
+      "value": "Stars"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Hawaiian"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Disgruntled"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headphones"
+    }
+  ]
+}

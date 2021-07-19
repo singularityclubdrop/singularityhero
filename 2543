@@ -1,0 +1,39 @@
+{
+  "name": "Singularity Hero #2543",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmTK4SMbdE3L7B2ermUFCP5LWZdBQHwdcmSzF94ed9GL5s",
+  "attributes": [
+    {
+      "trait_type": "Eye",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Glases",
+      "value": "Stars"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Demon"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Baby face"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Demon horns"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Gothic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Thor's Armor"
+    }
+  ]
+}

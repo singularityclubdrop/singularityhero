@@ -1,0 +1,39 @@
+{
+  "name": "Singularity Hero #2443",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmXQAxgA9DNuWsFDNJCEHaoxkQMAvaMMmfevHEGyc9g4MY",
+  "attributes": [
+    {
+      "trait_type": "Eye",
+      "value": "Electric"
+    },
+    {
+      "trait_type": "Glases",
+      "value": "Harry Potter"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Bain mask"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Keyboard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "The Crown"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Clown"
+    }
+  ]
+}

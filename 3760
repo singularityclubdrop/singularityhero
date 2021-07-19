@@ -1,0 +1,35 @@
+{
+  "name": "Singularity Hero #3760",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmZKvyHPXXbAcM7AtbeVYdmt3vLv6yCVne9xSsnfjLQ8SM",
+  "attributes": [
+    {
+      "trait_type": "Glases",
+      "value": "Harry Potter"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Dark violet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Life jacket"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Demon smile"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mini Afro leopard"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Gothic"
+    }
+  ]
+}

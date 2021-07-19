@@ -1,0 +1,39 @@
+{
+  "name": "Singularity Hero #3297",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmegJLngxik82TFWpF3jUXM3vSUsZix93jybHEca6h8918",
+  "attributes": [
+    {
+      "trait_type": "Eye",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Glases",
+      "value": "Ray Ban transparent"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Dirty shirt"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Base mask"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Swords"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Pierced ears"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Aqua"
+    }
+  ]
+}

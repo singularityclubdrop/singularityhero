@@ -1,0 +1,43 @@
+{
+  "name": "Singularity Hero #3528",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmWuL1pYzbBQeip7kwhAiVZnj9YxiV1VV6Lgqo2QBbNsKN",
+  "attributes": [
+    {
+      "trait_type": "Eye",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "Glases",
+      "value": "Ray Ban violet"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Leather jacket"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Cosmetic mask"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Keyboard"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Lightning"
+    },
+    {
+      "trait_type": "Head",
+      "value": "White elf"
+    }
+  ]
+}

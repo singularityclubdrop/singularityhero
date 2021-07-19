@@ -1,0 +1,43 @@
+{
+  "name": "Singularity Hero #2776",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmPfhqPuTRX6w7CN8oGDEzhrcFJybir15PmHhWFPqtELu1",
+  "attributes": [
+    {
+      "trait_type": "Eye",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Glases",
+      "value": "Scar"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Turquoise"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Life jacket"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Demon smile"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Alien Eye"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Long Dreads"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Lightning"
+    }
+  ]
+}

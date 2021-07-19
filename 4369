@@ -1,0 +1,39 @@
+{
+  "name": "Singularity Hero #4369",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmasxJ3K5v96EBpgXUK3Lf4SVGLEou7e8QZ7Gy8GNjRf11",
+  "attributes": [
+    {
+      "trait_type": "Eye",
+      "value": "Stars"
+    },
+    {
+      "trait_type": "Glases",
+      "value": "Pixel"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Dealer"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Dark violet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Human white"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Joystick"
+    },
+    {
+      "trait_type": "Face",
+      "value": "SteamPunk mask"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Сlassic haircut"
+    }
+  ]
+}

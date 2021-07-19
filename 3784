@@ -1,0 +1,35 @@
+{
+  "name": "Singularity Hero #3784",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmV3XH9bUMHo2RtWfmnMjnAoJuedBXTiq1fdEGSGSnB8GT",
+  "attributes": [
+    {
+      "trait_type": "Glases",
+      "value": "Rock"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Сhain"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Human white"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Pink t-shirt"
+    },
+    {
+      "trait_type": "Face",
+      "value": "SubZero mask"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mini Afro leopard"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Singularity Hero #2574",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmPH3WDiGtu8x3B6SiU7quqr1szgVKDqCdreggwTWd9W4F",
+  "attributes": [
+    {
+      "trait_type": "Glases",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Dark violet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Fire"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Joystick"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Gas mask"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Superman hair"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Thor's Armor"
+    }
+  ]
+}

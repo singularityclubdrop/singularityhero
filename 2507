@@ -1,0 +1,43 @@
+{
+  "name": "Singularity Hero #2507",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/Qmd1bC6qKxPiJMrsZGsbXC4BnAuZNyzd7ERQQJEaLjMTDU",
+  "attributes": [
+    {
+      "trait_type": "Eye",
+      "value": "Fire"
+    },
+    {
+      "trait_type": "Glases",
+      "value": "Goggles"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Heavenly"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Human black"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Cyber mask"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Trident"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Ski cap"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Beads"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Combat suit"
+    }
+  ]
+}

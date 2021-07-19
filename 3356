@@ -1,0 +1,35 @@
+{
+  "name": "Singularity Hero #3356",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmT9bgatDJcPKhMMoFnWYsmkoVFp5E5S63w7CD6KRM7smu",
+  "attributes": [
+    {
+      "trait_type": "Eye",
+      "value": "Stars"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Human black"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Anger"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Keyboard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cylinder hat"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Clown"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Singularity Hero #2614",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmRzYQKCLpuJ4P9bbhiX9DDv64J3BUZZyr1o9CkRYAcw71",
+  "attributes": [
+    {
+      "trait_type": "Glases",
+      "value": "Ray Ban transparent"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Denim vest"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Dark blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Fire"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Joystick"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Danger"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Frankenstein"
+    },
+    {
+      "trait_type": "Head",
+      "value": "White elf"
+    }
+  ]
+}

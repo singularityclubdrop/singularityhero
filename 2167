@@ -1,0 +1,39 @@
+{
+  "name": "Singularity Hero #2167",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmeFmGiAiey2ViLttVh6NeDL9j9yxDatqLXKsfEMSgn4nY",
+  "attributes": [
+    {
+      "trait_type": "Eye",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Glases",
+      "value": "Ray Ban transparent"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Blown vest"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Human white"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Leopard mask"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Beads"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mask hat"
+    }
+  ]
+}

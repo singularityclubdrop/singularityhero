@@ -1,0 +1,43 @@
+{
+  "name": "Singularity Hero #3561",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmPT5VXJt5ecYjTCUwt6JgD4PLJRNkmgF54g5eGKyirxL7",
+  "attributes": [
+    {
+      "trait_type": "Eye",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Glases",
+      "value": "Oval"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Leather jacket"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Lilac"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Sadness"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Keyboard"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Stars"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mask hat"
+    }
+  ]
+}

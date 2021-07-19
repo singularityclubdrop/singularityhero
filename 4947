@@ -1,0 +1,43 @@
+{
+  "name": "Singularity Hero #4947",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmasQuudHBm6jbCmQRecy9zP8QT8HnzyRZrNnm5MjoP463",
+  "attributes": [
+    {
+      "trait_type": "Eye",
+      "value": "Fire"
+    },
+    {
+      "trait_type": "Glases",
+      "value": "Work"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Backpack Red"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Human black"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Bain mask"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Afro"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Stars"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Singularity Hero"
+    }
+  ]
+}

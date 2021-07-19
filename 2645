@@ -1,0 +1,43 @@
+{
+  "name": "Singularity Hero #2645",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmS2oUPuTbVfFwtVd3xJG1jm49oGBp6gLXsDru4edunetd",
+  "attributes": [
+    {
+      "trait_type": "Eye",
+      "value": "Snake"
+    },
+    {
+      "trait_type": "Glases",
+      "value": "Oval"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Сhain"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Human black"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Base mask"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Short blonde"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Gothic"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Singularity Hero"
+    }
+  ]
+}

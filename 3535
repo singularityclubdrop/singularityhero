@@ -1,0 +1,35 @@
+{
+  "name": "Singularity Hero #3535",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmacF3N1AmfETP3RediZuiM9WzCvmHWpkFBUxpyQvnSAAE",
+  "attributes": [
+    {
+      "trait_type": "Eye",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Glases",
+      "value": "Ray Ban transparent"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Army"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Dark blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Leopard mask"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Frankenstein"
+    }
+  ]
+}

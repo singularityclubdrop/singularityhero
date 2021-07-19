@@ -1,0 +1,43 @@
+{
+  "name": "Singularity Hero #3738",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmWHXeV3Nxa1K33QHSdjZRoo5BUypY9fHzfen4BA5MLEsU",
+  "attributes": [
+    {
+      "trait_type": "Eye",
+      "value": "Aqua"
+    },
+    {
+      "trait_type": "Glases",
+      "value": "Bandage"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Dirty shirt"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Backpack Blue"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Turquoise"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Sadness"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Prodigy"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Gothic"
+    }
+  ]
+}

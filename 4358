@@ -1,0 +1,39 @@
+{
+  "name": "Singularity Hero #4358",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmaHx3bvJstwane8jof1Hruvah8nKx21dAKGfKTPyt2Pb4",
+  "attributes": [
+    {
+      "trait_type": "Eye",
+      "value": "Hypnotic"
+    },
+    {
+      "trait_type": "Glases",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Dark blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Pink t-shirt"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Sadness"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mini Afro black"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Skull"
+    }
+  ]
+}

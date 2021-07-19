@@ -1,0 +1,39 @@
+{
+  "name": "Singularity Hero #3681",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmakwngkoekLDZy4KwykDAAD2RftDxj16wBENXzJck8TCH",
+  "attributes": [
+    {
+      "trait_type": "Eye",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Glases",
+      "value": "Work"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Suspenders"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Leopard mask"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Rainbow hair"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Gothic"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Aqua"
+    }
+  ]
+}

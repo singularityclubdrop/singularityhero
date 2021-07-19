@@ -1,0 +1,35 @@
+{
+  "name": "Singularity Hero #3742",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmW9qvqjxyaSAhitN5qqvbBX8fmFrxv64iTHA7n1DcJxKn",
+  "attributes": [
+    {
+      "trait_type": "Glases",
+      "value": "Harry Potter"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Kung fu"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Сhain"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Face",
+      "value": "SubZero mask"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Prodigy"
+    }
+  ]
+}

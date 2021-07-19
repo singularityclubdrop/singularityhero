@@ -1,0 +1,35 @@
+{
+  "name": "Singularity Hero #2667",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmQdrfEiHkifVFAX24uj7yBYTddex1FbCdG3Coc9BHmib9",
+  "attributes": [
+    {
+      "trait_type": "Glases",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Dark blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Human white"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Dinamic mask"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Short blonde"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Stars"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Combat suit"
+    }
+  ]
+}

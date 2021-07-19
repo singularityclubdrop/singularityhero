@@ -1,0 +1,43 @@
+{
+  "name": "Singularity Hero #2968",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmfPFqG8SMzuUqZ8XU7GS3h5PhwUcReqbT6iHNDjV8oDoM",
+  "attributes": [
+    {
+      "trait_type": "Eye",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Glases",
+      "value": "Pixel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Joystick"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Stars"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Thor's Armor"
+    },
+    {
+      "trait_type": "Head",
+      "value": "White elf"
+    }
+  ]
+}

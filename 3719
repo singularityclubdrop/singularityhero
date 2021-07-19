@@ -1,0 +1,39 @@
+{
+  "name": "Singularity Hero #3719",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmS7QPnumc21MrZcur8Nn1MBU7HfSRGie6YU6f7nxjqU7e",
+  "attributes": [
+    {
+      "trait_type": "Eye",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Glases",
+      "value": "Pixel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Human white"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Yellow shirt"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Cyber mask"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pot hairstyle"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Gothic"
+    }
+  ]
+}

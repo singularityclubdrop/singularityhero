@@ -1,0 +1,31 @@
+{
+  "name": "Singularity Hero #2212",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmcxFfE7tfzNgs9711fJok2qKUyKPCfqqZU1JRMfv7oAyQ",
+  "attributes": [
+    {
+      "trait_type": "Clothes",
+      "value": "Leather jacket"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Heavenly"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Human black"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Anger"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Skull"
+    },
+    {
+      "trait_type": "Head",
+      "value": "White elf"
+    }
+  ]
+}

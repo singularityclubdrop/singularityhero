@@ -1,0 +1,31 @@
+{
+  "name": "Singularity Hero #2503",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmRCqD5oJN4zBKGEJDAFWrBJFAWRDuxNR2ixdurSCpwZFJ",
+  "attributes": [
+    {
+      "trait_type": "Glases",
+      "value": "Pixel"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Hawaiian"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Lilac"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Mystic"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Mad mask"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Afro"
+    }
+  ]
+}

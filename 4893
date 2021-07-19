@@ -1,0 +1,35 @@
+{
+  "name": "Singularity Hero #4893",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmY94Qz6p1jv5pUTxA1inDp5nVBjEitCQNqQQUjgUPr9U3",
+  "attributes": [
+    {
+      "trait_type": "Eye",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Glases",
+      "value": "Stars"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Dark violet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Leopard mask"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sleek hair"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Joker Jacket"
+    }
+  ]
+}

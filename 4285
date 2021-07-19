@@ -1,0 +1,39 @@
+{
+  "name": "Singularity Hero #4285",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmeRqHxW6vyKmAHQrdkHQFUV8KqFjiH4Mi2TF4MWagXMxi",
+  "attributes": [
+    {
+      "trait_type": "Eye",
+      "value": "Hypnotic"
+    },
+    {
+      "trait_type": "Glases",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Life jacket"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Base mask"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Keyboard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Helicopter hat"
+    }
+  ]
+}

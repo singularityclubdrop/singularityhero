@@ -1,0 +1,35 @@
+{
+  "name": "Singularity Hero #2629",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/Qme4inDPg5oLeQVwCSa4rDYirhzDy8ECN9mdSXhH6WGqPp",
+  "attributes": [
+    {
+      "trait_type": "Eye",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "Glases",
+      "value": "Stars"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Sweatshirt"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Turquoise"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Leopard mask"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mini Afro leopard"
+    }
+  ]
+}

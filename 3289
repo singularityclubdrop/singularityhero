@@ -1,0 +1,35 @@
+{
+  "name": "Singularity Hero #3289",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmY4oz4yqr9Pf7Fjj9ocq99p8GpEtUE6crrS5w87CZX2De",
+  "attributes": [
+    {
+      "trait_type": "Eye",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Glases",
+      "value": "Oval"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Turquoise"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Human white"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Tuxedo"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Smirk"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Hedgehog hair"
+    }
+  ]
+}

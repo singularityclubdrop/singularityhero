@@ -1,0 +1,43 @@
+{
+  "name": "Singularity Hero #3581",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmUTk9HnDZChP3rmy9SR4zZ32hA4rEBFhZmP939AieAZ6V",
+  "attributes": [
+    {
+      "trait_type": "Eye",
+      "value": "Aqua"
+    },
+    {
+      "trait_type": "Glases",
+      "value": "Stars"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Human white"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Keyboard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mini Afro black"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Beads"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Oxygen mask"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Combat suit"
+    }
+  ]
+}

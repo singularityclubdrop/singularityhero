@@ -1,0 +1,35 @@
+{
+  "name": "Singularity Hero #4906",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmXcB8ribJTnfKaRJCpUNCjiEb2aPZVJ2mEcHSGBmzYc4e",
+  "attributes": [
+    {
+      "trait_type": "Glases",
+      "value": "Smart"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Human black"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Life jacket"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Leopard mask"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Сlown hair"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Lightning"
+    }
+  ]
+}

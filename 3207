@@ -1,0 +1,35 @@
+{
+  "name": "Singularity Hero #3207",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmYq5CSEVk6mUQ9xv9LeNB5wrZcFbSwG3JBT8i4SetaeY1",
+  "attributes": [
+    {
+      "trait_type": "Eye",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Glases",
+      "value": "Stars"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Dark blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Mystic"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Сap"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Oxygen mask"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Singularity Hero"
+    }
+  ]
+}

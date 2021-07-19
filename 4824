@@ -1,0 +1,35 @@
+{
+  "name": "Singularity Hero #4824",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/Qme3NVRMWy1xRq3kMfeovaua39j7zcTjE4svUEewsb3Rn9",
+  "attributes": [
+    {
+      "trait_type": "Glases",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Danger"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Сowboy"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Beads"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Yellow blazer"
+    }
+  ]
+}

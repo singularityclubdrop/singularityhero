@@ -1,0 +1,39 @@
+{
+  "name": "Singularity Hero #3475",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/Qme1Hu7jMmWx53m89nyhnt2vfxkDmRGc7HB9tRaR4DDaLm",
+  "attributes": [
+    {
+      "trait_type": "Eye",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Glases",
+      "value": "Goggles"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Sweatshirt"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Dark blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Human black"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Сowboy"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Lightning"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Oxygen mask"
+    }
+  ]
+}

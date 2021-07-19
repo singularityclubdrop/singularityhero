@@ -1,0 +1,39 @@
+{
+  "name": "Singularity Hero #4497",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/Qma81HS7XvLVwRrsNe4vGPc3ZQv5fKapYwqCX3rEeVzr53",
+  "attributes": [
+    {
+      "trait_type": "Eye",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Glases",
+      "value": "Smart"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Сhain"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Heavenly"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Shawl"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Magic hat"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Gothic"
+    }
+  ]
+}

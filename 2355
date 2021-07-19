@@ -1,0 +1,31 @@
+{
+  "name": "Singularity Hero #2355",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmdhFoAf6KHydBmQCeAurLRCW6wivnZPesB4cheXh9M9yf",
+  "attributes": [
+    {
+      "trait_type": "Clothes",
+      "value": "Dirty shirt"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Dark blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Sadness"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Trident"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Rainbow hair"
+    }
+  ]
+}

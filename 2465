@@ -1,0 +1,39 @@
+{
+  "name": "Singularity Hero #2465",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmabaRyWFWLvj6Mcxst6BfHsaFdT8E12n1qYDqrRapSSoW",
+  "attributes": [
+    {
+      "trait_type": "Eye",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Glases",
+      "value": "Work"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Leather jacket"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Human black"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Anger"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Keyboard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Сap"
+    }
+  ]
+}

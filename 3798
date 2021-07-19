@@ -1,0 +1,35 @@
+{
+  "name": "Singularity Hero #3798",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmX7DVxiWrDLAvhW53BKTy9zMq9yKwDex4zSKVR4Cb27x1",
+  "attributes": [
+    {
+      "trait_type": "Glases",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Dirty shirt"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Dark violet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Human white"
+    },
+    {
+      "trait_type": "Face",
+      "value": "SubZero mask"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Hedgehog hair"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Lightning"
+    }
+  ]
+}

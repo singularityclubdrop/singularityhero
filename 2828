@@ -1,0 +1,35 @@
+{
+  "name": "Singularity Hero #2828",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmSXTewnv5DrvPjbVpUwgumXsiBYneVq58R7MGuqJPtRbN",
+  "attributes": [
+    {
+      "trait_type": "Glases",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Denim"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Joystick"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Robot mask"
+    },
+    {
+      "trait_type": "Head",
+      "value": "The Crown"
+    }
+  ]
+}

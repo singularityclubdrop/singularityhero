@@ -1,0 +1,31 @@
+{
+  "name": "Singularity Hero #2238",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmWbD1Ukt7mTVt7Ms3Bq6crff3CRQCsGrjn7h6HWBaSvQQ",
+  "attributes": [
+    {
+      "trait_type": "Glases",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Dark blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Human black"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Yellow shirt"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Gannibal mask"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Helicopter hat"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Singularity Hero #2714",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmU6zoFLzFP8wUi8ofPVzheLcdHVAQwZSgsVA37QN3GEbh",
+  "attributes": [
+    {
+      "trait_type": "Glases",
+      "value": "Love"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Denim"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Sadness"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Alien Eye"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headphones"
+    }
+  ]
+}

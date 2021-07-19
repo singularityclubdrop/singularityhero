@@ -1,0 +1,39 @@
+{
+  "name": "Singularity Hero #3823",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmP3FGk9ub3ZR1kCTNKJbMmoa21SAskMvFS4uc33osSxB8",
+  "attributes": [
+    {
+      "trait_type": "Eye",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Glases",
+      "value": "Pixel"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Yellow shirt"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Zebra mask"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Swords"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sketchy styling"
+    }
+  ]
+}

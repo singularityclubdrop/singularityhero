@@ -1,0 +1,27 @@
+{
+  "name": "Singularity Hero #2279",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/Qmaw95bsQ1ELxHwfiB1eNDrGGSwxEWXsA6Cw29C181JfRR",
+  "attributes": [
+    {
+      "trait_type": "Glases",
+      "value": "Stars"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Human black"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Sadness"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Magic hat"
+    }
+  ]
+}
