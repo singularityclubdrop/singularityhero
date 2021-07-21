@@ -1,0 +1,39 @@
+{
+  "name": "Singularity Hero #1420",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmW8f5izH6oqzCa1NbQRhsyKhvtmk6Q8TaYPx8TmYCsD1J",
+  "attributes": [
+    {
+      "trait_type": "Eye",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Glases",
+      "value": "Pixel"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Scars"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Joystick"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Mad mask"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headphones"
+    }
+  ]
+}
