@@ -1,0 +1,35 @@
+{
+  "name": "Singularity Hero #1610",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmY6Cjxzo1hm2xvw2Jenx3t7Am5aZiYg8pnPWFRWgPTEYx",
+  "attributes": [
+    {
+      "trait_type": "Glases",
+      "value": "Oval"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "AC/DC"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Human white"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Disgruntled"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Towel"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Zombie"
+    }
+  ]
+}
