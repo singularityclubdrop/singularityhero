@@ -1,0 +1,39 @@
+{
+  "name": "Singularity Hero #1686",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmPHSrVf9ovPM7sktx8MQwE6c2fuNbcEWPwvbhBixsgcG9",
+  "attributes": [
+    {
+      "trait_type": "Glasses",
+      "value": "Work"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Scars"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Heavenly"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Keyboard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sleek hair"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Zombie"
+    }
+  ]
+}

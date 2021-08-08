@@ -1,0 +1,43 @@
+{
+  "name": "Singularity Hero #1693",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmWzEKMT9oatagqohkjqpvx7JD3irJ7uZND1iPodNyvSqS",
+  "attributes": [
+    {
+      "trait_type": "Eye",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Rectangular"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Leather jacket"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Backpack Blue"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Helicopter hat"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Holes"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Oxygen mask"
+    }
+  ]
+}

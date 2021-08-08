@@ -1,0 +1,39 @@
+{
+  "name": "Singularity Hero #1658",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmfNYscXLNk5ETV1oPXkkHPNMu5JwHH8GnFwprwEgkVVHG",
+  "attributes": [
+    {
+      "trait_type": "Eye",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Dinamic mask"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Swords"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sketchy styling"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Zombie"
+    }
+  ]
+}

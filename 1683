@@ -1,0 +1,39 @@
+{
+  "name": "Singularity Hero #1683",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmWC4Wht5Gb3sV7AjuQbU8PiozBt7qfVjrD1QnjbkoSyKV",
+  "attributes": [
+    {
+      "trait_type": "Eye",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Suspenders"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Danger"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Torch"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Long Dreads"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Zombie"
+    }
+  ]
+}

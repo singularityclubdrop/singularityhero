@@ -1,0 +1,31 @@
+{
+  "name": "Singularity Hero #1685",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmYan57yY3pahdQCTcKRB8j5wpvcVh8pUWeg1jmxhZ4VCW",
+  "attributes": [
+    {
+      "trait_type": "Glasses",
+      "value": "Steam punk"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Dark blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Pink t-shirt"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Sadness"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pitter Parker hair"
+    }
+  ]
+}

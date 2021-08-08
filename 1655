@@ -1,0 +1,35 @@
+{
+  "name": "Singularity Hero #1655",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmYpA4gANqDdHJgJL1NSoUNGCX2xDWa6y7z74oFPk6h648",
+  "attributes": [
+    {
+      "trait_type": "Eye",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Smart"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Dirty shirt"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Heavenly"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Human black"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pot hairstyle"
+    }
+  ]
+}

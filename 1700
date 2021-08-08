@@ -1,0 +1,43 @@
+{
+  "name": "Singularity Hero #1700",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmfCDTnWU9L5Rsp5DWB1UE33CUApxbL3XZKiyt9teQ9MV1",
+  "attributes": [
+    {
+      "trait_type": "Eye",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Stars"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Сhain"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Dark blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Pink t-shirt"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Smirk"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Hedgehog hair"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Skull"
+    }
+  ]
+}

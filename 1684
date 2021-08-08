@@ -1,0 +1,43 @@
+{
+  "name": "Singularity Hero #1684",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmWNDuLygf1Td8CTCyvoePcyfVwncf6Adc2gWq2sDfT4zq",
+  "attributes": [
+    {
+      "trait_type": "Eye",
+      "value": "Hypnotic"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Goggles"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Hawaiian"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Сhain"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Dark blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Danger"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dealer"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Holes"
+    }
+  ]
+}

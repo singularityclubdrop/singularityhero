@@ -1,0 +1,39 @@
+{
+  "name": "Singularity Hero #1678",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmUNtNGE2X6JQYVcoadfMrzrxAStgxzfgUgJ2PBBabxEz6",
+  "attributes": [
+    {
+      "trait_type": "Glasses",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Backpack Blue"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Tuxedo"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Smoking"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Purple hat"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Beads"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Singularity Hero #1692",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmPM8BfbHBgdTjUKHGDQuUpEmcqZNAQ5oJ9RaBXRbR9PAB",
+  "attributes": [
+    {
+      "trait_type": "Eye",
+      "value": "Snake"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Goggles"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Fire"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Cyber mask"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sketchy styling"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Gothic"
+    }
+  ]
+}
