@@ -1,0 +1,39 @@
+{
+  "name": "Singularity Hero #1721",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmSK8ifu8mcxhBErCgapf6mdcvPdKmsWqoWcvcZYAJt1qH",
+  "attributes": [
+    {
+      "trait_type": "Eye",
+      "value": "Electric"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Rock"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Tuxedo"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Base mask"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Keyboard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dealer"
+    }
+  ]
+}

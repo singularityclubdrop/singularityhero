@@ -1,0 +1,43 @@
+{
+  "name": "Singularity Hero #1740",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/Qmav5MqCTAiGj57e2qnmNVMqm8gC9vXteqtXHkdUjHaxTy",
+  "attributes": [
+    {
+      "trait_type": "Eye",
+      "value": "Electric"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Goggles"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Hawaiian"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Danger"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Trident"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Helicopter hat"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Pierced ears"
+    }
+  ]
+}

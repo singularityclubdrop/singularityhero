@@ -1,0 +1,35 @@
+{
+  "name": "Singularity Hero #1704",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmYVP7JVbZUhuPEWHLnU7rQhcxxJkY11prgoCtXS19eGaL",
+  "attributes": [
+    {
+      "trait_type": "Glasses",
+      "value": "Morpheus"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Leather jacket"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Baby face"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Trident"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pot hairstyle"
+    }
+  ]
+}

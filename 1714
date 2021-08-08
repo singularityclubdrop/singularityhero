@@ -1,0 +1,39 @@
+{
+  "name": "Singularity Hero #1714",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmQUnt2gCxPkvX9E9JJkivjb8xc6wsws651LNgtjNChxn7",
+  "attributes": [
+    {
+      "trait_type": "Eye",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Ray Ban transparent"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Denim vest"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Human black"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Smirk"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Alien Eye"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mini Afro black"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Singularity Hero #1733",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmaUY2ABzPHdvtSWmgazVH4S7xmvSMAZwtVvUjryTi5vt4",
+  "attributes": [
+    {
+      "trait_type": "Eye",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Rock"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Dirty shirt"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Сhain"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Lilac"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Robot mask"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Rainbow hair"
+    }
+  ]
+}

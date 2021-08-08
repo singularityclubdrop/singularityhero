@@ -1,0 +1,31 @@
+{
+  "name": "Singularity Hero #1741",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmbL1wkAis9Ran9iaqwb82uA7qHBhYcP4hBV8E8NmKjcud",
+  "attributes": [
+    {
+      "trait_type": "Eye",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Human black"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Baby face"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dreads"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Racer"
+    }
+  ]
+}

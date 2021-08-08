@@ -1,0 +1,35 @@
+{
+  "name": "Singularity Hero #1727",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmagiVsmx98qZkUW27gaqEJ1oQayu6mrhbTC1CQdHLUC77",
+  "attributes": [
+    {
+      "trait_type": "Eye",
+      "value": "Snake"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Ray Ban transparent"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Dealer"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Human white"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Dinamic mask"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Сlassic haircut"
+    }
+  ]
+}

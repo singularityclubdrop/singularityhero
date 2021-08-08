@@ -1,0 +1,43 @@
+{
+  "name": "Singularity Hero #1709",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmWvERtzw4yBGAk58cRqoPcrzCdPnmzBi15ErfnNFrmsuR",
+  "attributes": [
+    {
+      "trait_type": "Eye",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Love"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Backpack Red"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Dark blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Yellow shirt"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Cyber mask"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Hat"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Holes"
+    }
+  ]
+}

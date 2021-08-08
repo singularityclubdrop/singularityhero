@@ -1,0 +1,43 @@
+{
+  "name": "Singularity Hero #1717",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmbJ8V2YSMGsPWGfp1WbWq2b12sC1u2Ui8z2f4wkvZtuUv",
+  "attributes": [
+    {
+      "trait_type": "Eye",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Oval"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Suspenders"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Sadness"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Trident"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Short blonde"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Gothic"
+    }
+  ]
+}

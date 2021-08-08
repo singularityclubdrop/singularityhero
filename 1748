@@ -1,0 +1,35 @@
+{
+  "name": "Singularity Hero #1748",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmSU4XJprtzR5K8AQ9QcYyMBhmyHe9rMm6rtk5tnxLaACJ",
+  "attributes": [
+    {
+      "trait_type": "Eye",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Dark violet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Cosmetic mask"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Short bangs"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Holes"
+    }
+  ]
+}

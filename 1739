@@ -1,0 +1,31 @@
+{
+  "name": "Singularity Hero #1739",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmWsGEHz6ex1UtvGrDovxk29UDnFnPJmt3RjbzgZgNDEQV",
+  "attributes": [
+    {
+      "trait_type": "Eye",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Work"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Kung fu"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Disgruntled"
+    }
+  ]
+}

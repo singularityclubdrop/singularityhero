@@ -1,0 +1,39 @@
+{
+  "name": "Singularity Hero #1744",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmdHZnugA11TQCr5qLEdjgoT3vrN54AHzzDCY3JzShi1oN",
+  "attributes": [
+    {
+      "trait_type": "Eye",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Turquoise"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Joystick"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Pink t-shirt"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mini Afro leopard"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Pierced ears"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Aqua"
+    }
+  ]
+}

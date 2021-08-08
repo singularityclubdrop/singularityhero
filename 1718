@@ -1,0 +1,35 @@
+{
+  "name": "Singularity Hero #1718",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmVdNBYh5da9JRmCFmKBHyNEAwdCfWYVxaFomGSoHjCkka",
+  "attributes": [
+    {
+      "trait_type": "Clothes",
+      "value": "Denim vest"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Backpack Blue"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Human black"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Joker"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Short blonde"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Lightning"
+    }
+  ]
+}

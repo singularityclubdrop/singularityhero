@@ -1,0 +1,39 @@
+{
+  "name": "Singularity Hero #1767",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmZFnp9KnFX6muwxfWJhq4nTtkDhNsWyjTT3JHYL239GC9",
+  "attributes": [
+    {
+      "trait_type": "Eye",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Pixel"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Hawaiian"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Dark blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Joystick"
+    },
+    {
+      "trait_type": "Face",
+      "value": "SubZero mask"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Сowboy"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Singularity Hero #1735",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmWzAxFySznRuqU7kbqe9K2Pmanc54RL8XAXX1BhynDNzi",
+  "attributes": [
+    {
+      "trait_type": "Glasses",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Lilac"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Danger"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dreads"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Holes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Clown"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Aqua"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Singularity Hero #1743",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmUyfpybL3RSHgka7d1ifZsCK1P8kj1JJoXtbHg9qPTR6a",
+  "attributes": [
+    {
+      "trait_type": "Eye",
+      "value": "Fire"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Morpheus"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Zebra mask"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Swords"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dreads"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Aqua"
+    }
+  ]
+}
