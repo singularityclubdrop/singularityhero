@@ -4,7 +4,7 @@
   "image": "https://ipfs.io/ipfs/QmeKpAMQhUuDWHmNdXdvRJTmAWJ4KDdExZomRPVRnqcCAM",
   "attributes": [
     {
-      "trait_type": "Glases",
+      "trait_type": "Glasses",
       "value": "Red"
     },
     {
@@ -21,7 +21,7 @@
     },
     {
       "trait_type": "Face",
-      "value": "Gannibal mask"
+      "value": "Hannibal mask"
     },
     {
       "trait_type": "Head",
