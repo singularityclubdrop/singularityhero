@@ -1,0 +1,39 @@
+{
+  "name": "Singularity Hero #8731",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmU57MKLnfPZJzDqfQH7euhSHLfMjdaQRCaoLBnN2PsvVq",
+  "attributes": [
+    {
+      "trait_type": "Eye",
+      "value": "Stars"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Rock"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Сhain"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Heavenly"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Ethereum T-shirt"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Base mask"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Сap"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Singularity Hero #1856",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmRmnzUYZJwRBZHV1G8TP5zhLZirSMw4NMCmTPzQu34A9y",
+  "attributes": [
+    {
+      "trait_type": "Glasses",
+      "value": "Stars"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Leather jacket"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Gas mask"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Helicopter hat"
+    }
+  ]
+}

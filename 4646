@@ -1,0 +1,39 @@
+{
+  "name": "Singularity Hero #4646",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmP6cdngH8ST2irtiZBQweUQfEwZKQ3NLsZS5sk3S4r5Gg",
+  "attributes": [
+    {
+      "trait_type": "Eye",
+      "value": "Hypnotic"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Work"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "AC/DC"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Dark blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Human black"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Sadness"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Long Dreads"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Pierced ears"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Singularity Hero #4499",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmeB6RYRfXzEbWDJnU9rwtM6X5qaHYJR1Ebhpm3eKrDE21",
+  "attributes": [
+    {
+      "trait_type": "Glasses",
+      "value": "Stars"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "AC/DC"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Backpack Blue"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Fire"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Base mask"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Helicopter hat"
+    }
+  ]
+}

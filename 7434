@@ -1,0 +1,43 @@
+{
+  "name": "Singularity Hero #7434",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmewxBmyohNRYY9HghCFuStMFNKi4XLAGvKvQGrynWu6YA",
+  "attributes": [
+    {
+      "trait_type": "Eye",
+      "value": "Love"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Ray Ban transparent"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Backpack Red"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Human black"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Tuxedo"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Disgruntled"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bandanna"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Zombie"
+    }
+  ]
+}

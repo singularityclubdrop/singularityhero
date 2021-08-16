@@ -1,0 +1,39 @@
+{
+  "name": "Singularity Hero #9924",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/Qman8ZjgHsHoPeTVcGcRSgugYAewZbLv5DS2EUXkyFGnue",
+  "attributes": [
+    {
+      "trait_type": "Eye",
+      "value": "Fire"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Rock"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Heavenly"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Fire"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Anger"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mini Afro black"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Holes"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Joker Jacket"
+    }
+  ]
+}

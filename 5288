@@ -1,0 +1,31 @@
+{
+  "name": "Singularity Hero #5288",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmeXUpZXzoNBssj9r3rC4AAum2z4vUZihRsiTUZnJASZx1",
+  "attributes": [
+    {
+      "trait_type": "Glasses",
+      "value": "Oval"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Army"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Dark blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Zebra mask"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pot hairstyle"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Singularity Hero #9238",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmShTNC5jLv7jfzej357wNWnZ8trUL9NUyuEQu1JVHBtCT",
+  "attributes": [
+    {
+      "trait_type": "Eye",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Narrow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Human white"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Pink t-shirt"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Sadness"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Helicopter hat"
+    }
+  ]
+}

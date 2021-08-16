@@ -1,0 +1,35 @@
+{
+  "name": "Singularity Hero #7753",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmekWDanH56ijhAbpFMETVtpBz7ZNpBrWBx8z3QZG9YZe8",
+  "attributes": [
+    {
+      "trait_type": "Eye",
+      "value": "Snake"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Stars"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Ninja"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Dark blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Joker"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Afro"
+    }
+  ]
+}

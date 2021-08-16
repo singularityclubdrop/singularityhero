@@ -1,0 +1,39 @@
+{
+  "name": "Singularity Hero #5155",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmePmSuuWqU7NsQcFsPPSo8ZZVn12oLPxTN86XeHrPX6dx",
+  "attributes": [
+    {
+      "trait_type": "Glasses",
+      "value": "Morpheus"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Turquoise"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Human white"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Joystick"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Sadness"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Short bangs"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Beads"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Joker Jacket"
+    }
+  ]
+}

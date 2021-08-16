@@ -1,0 +1,39 @@
+{
+  "name": "Singularity Hero #4300",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmV24cC5Kf4TxUDom8HxgNC1m2Nv9VTSCDvv7vvkMNDggX",
+  "attributes": [
+    {
+      "trait_type": "Eye",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Rock"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Dirty shirt"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Dark blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Sadness"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Joker"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Lightning"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Singularity Hero #8527",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmPm9xsmWcA7ZF3AHGFLYGCT5hjjhbJSWAapBNidJbiktW",
+  "attributes": [
+    {
+      "trait_type": "Clothes",
+      "value": "Blown vest"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Heavenly"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Human black"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Joystick"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Smirk"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Ugly hair"
+    }
+  ]
+}

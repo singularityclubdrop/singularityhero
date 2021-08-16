@@ -1,0 +1,35 @@
+{
+  "name": "Singularity Hero #8922",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmURhAEL9wNWnomRjXaJGtaps34dKUJPq1CZVgneZ1hH1V",
+  "attributes": [
+    {
+      "trait_type": "Glasses",
+      "value": "Work"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Army"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Lilac"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Human white"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Smoking"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Pierced ears"
+    }
+  ]
+}

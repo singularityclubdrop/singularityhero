@@ -1,0 +1,39 @@
+{
+  "name": "Singularity Hero #6735",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmP8qj2PZUvDn8bM1TDueEohN1VJgikPDymc6yLyuxsnaa",
+  "attributes": [
+    {
+      "trait_type": "Glasses",
+      "value": "Morpheus"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Dirty shirt"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Disgruntled"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Trident"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pitter Parker hair"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Gothic"
+    }
+  ]
+}

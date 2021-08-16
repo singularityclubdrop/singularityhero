@@ -1,0 +1,35 @@
+{
+  "name": "Singularity Hero #9027",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmajR6FhUb3UsDsRXosyqu3aWcxfxhFK6dnhfrEmXqFriK",
+  "attributes": [
+    {
+      "trait_type": "Eye",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Scars"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Heavenly"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Sadness"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Alien Eye"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Hedgehog hair"
+    }
+  ]
+}

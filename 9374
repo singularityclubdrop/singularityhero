@@ -1,0 +1,27 @@
+{
+  "name": "Singularity Hero #9374",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmQuFD5XFqZzpZyDUbRN8wkVp3pdUixwrhKYGvRfkHPzdG",
+  "attributes": [
+    {
+      "trait_type": "Eye",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Scars"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Turquoise"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Smirk"
+    }
+  ]
+}

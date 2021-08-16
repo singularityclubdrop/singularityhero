@@ -1,0 +1,35 @@
+{
+  "name": "Singularity Hero #3134",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmezEe1akCEsdSpsdQUibXx8svsERjtN1n1J6u3QRjQRnN",
+  "attributes": [
+    {
+      "trait_type": "Eye",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Morpheus"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Turquoise"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Leopard mask"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Swords"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Elf Ears"
+    }
+  ]
+}

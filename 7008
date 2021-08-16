@@ -1,0 +1,35 @@
+{
+  "name": "Singularity Hero #7008",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmNpeiTrTSd5AC5ZJGP72WbrDpdaoYWf7iNV3WVgczW5ih",
+  "attributes": [
+    {
+      "trait_type": "Glasses",
+      "value": "Steam punk"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Human white"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Smirk"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Ski cap"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Frankenstein"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Clown"
+    }
+  ]
+}

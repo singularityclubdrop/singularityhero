@@ -1,0 +1,35 @@
+{
+  "name": "Singularity Hero #6898",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmezM58xbanoTmF9gdr6nR2A86DE2ZY9WqgmxSCvXCs8pD",
+  "attributes": [
+    {
+      "trait_type": "Eye",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Oval"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Backpack Red"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Dark blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Human black"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Pink t-shirt"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Dinamic mask"
+    }
+  ]
+}

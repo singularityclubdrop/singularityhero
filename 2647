@@ -1,0 +1,27 @@
+{
+  "name": "Singularity Hero #2647",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmatYWUYpkkwpSizZeL9ShUvBXJXspaz4BUP6fFt3bXKAR",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "Face",
+      "value": "SubZero mask"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bamboo hat"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Holes"
+    }
+  ]
+}

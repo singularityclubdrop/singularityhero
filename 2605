@@ -1,0 +1,35 @@
+{
+  "name": "Singularity Hero #2605",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmchMUd3s8eCtuUPhP6sTGsYSemFH3YCY7Lmw5q4UmGfJd",
+  "attributes": [
+    {
+      "trait_type": "Eye",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Rectangular"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Lilac"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Pink t-shirt"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Smirk"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Long Dreads"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Singularity Hero #4008",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmciF3dVfNHCMBikToqCHYJaMS4kh4J8gfMh9KmwXmXpeF",
+  "attributes": [
+    {
+      "trait_type": "Eye",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Morpheus"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Dealer"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Demon's tongue"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Short bangs"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Singularity Hero #6530",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmefpLqtRDBFy9yM1oRLLbim5nMPPtmvXDLNvTfCPg5WXa",
+  "attributes": [
+    {
+      "trait_type": "Glasses",
+      "value": "Work"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Dirty shirt"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Turquoise"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Sadness"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Elf Ears"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mask hat"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Aqua"
+    }
+  ]
+}

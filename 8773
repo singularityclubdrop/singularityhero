@@ -1,0 +1,35 @@
+{
+  "name": "Singularity Hero #8773",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmPjuubjGdSdSWdruQ4ZWmS4RMasVpgGeajGY5TE6htoif",
+  "attributes": [
+    {
+      "trait_type": "Eye",
+      "value": "Demon"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Denim vest"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Сhain"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Dark violet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Demon"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Demon smile"
+    },
+    {
+      "trait_type": "Head",
+      "value": "The Crown"
+    }
+  ]
+}

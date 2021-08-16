@@ -1,0 +1,31 @@
+{
+  "name": "Singularity Hero #9029",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmedXBm2DeCchcsrfSaqMUB2pMTXFQAnx73oGvXokDhMe4",
+  "attributes": [
+    {
+      "trait_type": "Eye",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Turquoise"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Yellow shirt"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Zebra mask"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sketchy styling"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Aqua"
+    }
+  ]
+}

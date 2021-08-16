@@ -1,0 +1,35 @@
+{
+  "name": "Singularity Hero #4471",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmewuJvXQ1MFQiw8QmoMVqiDpBmfhAD6Zd4XRoGPaVfTUv",
+  "attributes": [
+    {
+      "trait_type": "Eye",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Demon"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Pink t-shirt"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Gas mask"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Swords"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Reggae"
+    }
+  ]
+}

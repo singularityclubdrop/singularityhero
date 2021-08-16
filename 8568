@@ -1,0 +1,39 @@
+{
+  "name": "Singularity Hero #8568",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmePd2qtdaxdeYKrysWCH1zBKPSoNBDi4SK6SrLXN8zCqT",
+  "attributes": [
+    {
+      "trait_type": "Eye",
+      "value": "Aqua"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Love"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Army"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Human black"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Smoking"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Magic hat"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Zombie"
+    }
+  ]
+}

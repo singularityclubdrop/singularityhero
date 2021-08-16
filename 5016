@@ -1,0 +1,35 @@
+{
+  "name": "Singularity Hero #5016",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmREPXZYHmS2uypbazhLuU3wBfXBG47dXWwvAk2YyApYke",
+  "attributes": [
+    {
+      "trait_type": "Glasses",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Tuxedo"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Sadness"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Keyboard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Afro"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Singularity Hero #8487",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmagLSRK7LgVCqNYb8w6mKt7aBx6oiBgqraG8En1p85eeU",
+  "attributes": [
+    {
+      "trait_type": "Eye",
+      "value": "Love"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Stars"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Hoodie"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Human white"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Base mask"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Keyboard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Jester's hat"
+    }
+  ]
+}

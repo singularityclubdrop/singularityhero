@@ -1,0 +1,31 @@
+{
+  "name": "Singularity Hero #9611",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmedWttG8VqmDqPRWciR2nUmj2g7v8y67c4WfX84mxuyxz",
+  "attributes": [
+    {
+      "trait_type": "Eye",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Dirty shirt"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Robot mask"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dealer"
+    }
+  ]
+}

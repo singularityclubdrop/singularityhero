@@ -1,0 +1,35 @@
+{
+  "name": "Singularity Hero #5061",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmecGAsXw17HfJZFAxzkRzkR6JAHEhYBnX7tGYS81H9VVv",
+  "attributes": [
+    {
+      "trait_type": "Eye",
+      "value": "Fire"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Turquoise"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Demon"
+    },
+    {
+      "trait_type": "Face",
+      "value": "SubZero mask"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Torch"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sleek hair"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Stars"
+    }
+  ]
+}

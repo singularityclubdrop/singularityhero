@@ -1,0 +1,31 @@
+{
+  "name": "Singularity Hero #2388",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmceCg627rAtuudTssaqupHeyv1eCfevyud4obSa718832",
+  "attributes": [
+    {
+      "trait_type": "Glasses",
+      "value": "Ray Ban transparent"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Lilac"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Disgruntled"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Hedgehog hair"
+    }
+  ]
+}

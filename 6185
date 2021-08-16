@@ -1,0 +1,35 @@
+{
+  "name": "Singularity Hero #6185",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmadH7RAMMrpavnipdDY1YmjkRr6pmGUerTx2oujr31HSi",
+  "attributes": [
+    {
+      "trait_type": "Eye",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Sweatshirt"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Demon"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Disgruntled"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Swords"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Reggae"
+    }
+  ]
+}

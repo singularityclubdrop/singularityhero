@@ -1,0 +1,35 @@
+{
+  "name": "Singularity Hero #7403",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmccBqsqTdraEbAkekyo3mmdNRxMx4vVoEfGkRYszNrbK8",
+  "attributes": [
+    {
+      "trait_type": "Eye",
+      "value": "Electric"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Kung fu"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Hannibal mask"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Swords"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bamboo hat"
+    }
+  ]
+}

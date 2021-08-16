@@ -1,0 +1,35 @@
+{
+  "name": "Singularity Hero #6048",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmebFZ2gTZTms5465AshCZ1ELA2CZ5bbi6LkMBfWRKWZvC",
+  "attributes": [
+    {
+      "trait_type": "Eye",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Psycho"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Human white"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Sadness"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Ugly hair"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Gothic"
+    }
+  ]
+}

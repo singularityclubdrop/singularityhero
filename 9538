@@ -1,0 +1,35 @@
+{
+  "name": "Singularity Hero #9538",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmULHVMi8b1kuyaPFJD323Qta9WT5SCwyh8KndfdqLnM3u",
+  "attributes": [
+    {
+      "trait_type": "Eye",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Denim"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Dark blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Disgruntled"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mini Afro leopard"
+    }
+  ]
+}

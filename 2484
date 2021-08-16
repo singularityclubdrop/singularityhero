@@ -1,0 +1,35 @@
+{
+  "name": "Singularity Hero #2484",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmStY22Ns5Fe1r6P54LHDUDYDc3btR51QxGXQqGrp1kza4",
+  "attributes": [
+    {
+      "trait_type": "Glasses",
+      "value": "Goggles"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Dark blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Reptile"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Tuxedo"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Joker"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Trident"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Ugly hair"
+    }
+  ]
+}

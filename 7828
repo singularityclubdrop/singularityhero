@@ -1,0 +1,35 @@
+{
+  "name": "Singularity Hero #7828",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmapGG7jF3gvQ4Y2UR1q5nZ1q4ewD8ahDcniTPgkGsMyJV",
+  "attributes": [
+    {
+      "trait_type": "Eye",
+      "value": "Snake"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Denim"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Heavenly"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Smirk"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Helicopter hat"
+    }
+  ]
+}

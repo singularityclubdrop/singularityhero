@@ -1,0 +1,35 @@
+{
+  "name": "Singularity Hero #6847",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmezGLesaLw655RDWXwzfmHrgxGsqx96xffxKuA7qeiwc4",
+  "attributes": [
+    {
+      "trait_type": "Eye",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Lilac"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Yellow shirt"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Gas mask"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dealer"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Beads"
+    }
+  ]
+}

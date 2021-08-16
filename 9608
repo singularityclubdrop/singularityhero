@@ -1,0 +1,31 @@
+{
+  "name": "Singularity Hero #9608",
+  "external_link": "https://singularityhero.io/",
+  "image": "https://ipfs.io/ipfs/QmejTH414WEqmVBK4CdWPZCF7CBdNHbhMacw4UDf3sf17e",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark violet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Tatoo"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Danger"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Swords"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bro Flow"
+    }
+  ]
+}
